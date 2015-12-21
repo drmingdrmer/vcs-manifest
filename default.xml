@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="meituan"
-           fetch=".."
+           fetch="ssh://git@git.sankuai.com/~zhangyanpo/"
            review="ssh://git@git.sankuai.com/~zhangyanpo/" />
   <default revision="master"
            remote="meituan"
