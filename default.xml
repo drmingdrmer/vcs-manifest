@@ -5,9 +5,14 @@
            fetch="ssh://git@git.sankuai.com/~zhangyanpo/"
            review="ssh://git@git.sankuai.com/~zhangyanpo/" />
 
+  <remote  name="github"
+           fetch="https://github.com/drmingdrmer/"
+           />
+
   <default revision="master"
            remote="meituan"
            sync-j="1" />
 
   <project path="s3plus" name="s3plus.git" groups="xp_proj" />
+  <project path="xptemplate" name="xptemplate.git" remote="github" groups="xp_proj" />
 </manifest>
