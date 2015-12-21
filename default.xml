@@ -8,5 +8,5 @@
            remote="meituan"
            sync-j="1" />
 
-  <project path="s3plus" name="s3plus" groups="xp_proj" />
+  <project path="s3plus" name="s3plus.git" groups="xp_proj" />
 </manifest>
