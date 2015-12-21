@@ -14,5 +14,5 @@
            sync-j="1" />
 
   <project path="s3plus" name="s3plus.git" groups="xp_proj" />
-  <project path="xptemplate" name="xptemplate.git" remote="github" groups="xp_proj" />
+  <project path="xptemplate" name="xptemplate.git" remote="github" revision="mix" groups="xp_proj" />
 </manifest>
