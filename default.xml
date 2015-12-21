@@ -4,6 +4,7 @@
   <remote  name="meituan"
            fetch="ssh://git@git.sankuai.com/~zhangyanpo/"
            review="ssh://git@git.sankuai.com/~zhangyanpo/" />
+
   <default revision="master"
            remote="meituan"
            sync-j="1" />
