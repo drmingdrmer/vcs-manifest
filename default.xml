@@ -78,21 +78,4 @@
     <project groups="s2" remote="bitbucket-me"     name="conf4s2"   revision="master" />
     <project groups="s2" remote="gitcafe-me"       name="sinastorage-client"   revision="master" />
 
-<!--
-[submodule "s2/sinastorage"]
-	path = s2/sinastorage
-	url = git@bitbucket.org:drmingdrmer/sinastorage.git
-	branch = master
-[submodule "s2/conf4s2-bit"]
-	path = s2/conf4s2-bit
-	url = git@bitbucket.org:drmingdrmer/conf4s2.git
-	branch = master
-[submodule "s2/sinastorage-client"]
-	path = s2/sinastorage-client
-	url = git@gitcafe.com:drmingdrmer/sinastorage-client.git
-[submodule "dbcool.angda"]
-	path = dbcool.angda
-	url = git@github.com:angdali/dbc.core.git
-	branch = master
--->
 </manifest>
