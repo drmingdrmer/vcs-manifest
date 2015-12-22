@@ -55,6 +55,9 @@
     <project groups="xpdev" remote="github-me"     name="2048bot"   revision="gh-pages"   />
     <project groups="xpdev" remote="github-me"     name="next-number"   revision="gh-pages"   />
 
+    <project groups="xpdev" remote="github-me"     name="lua-cjson"   revision="master"
+        path="lua-cjson.drmingdrmer" />
+
 <!--
 [submodule "s2/sinastorage"]
 	path = s2/sinastorage
@@ -70,10 +73,6 @@
 [submodule "s2/conf4s2-bit"]
 	path = s2/conf4s2-bit
 	url = git@bitbucket.org:drmingdrmer/conf4s2.git
-	branch = master
-[submodule "lua-cjson.drmingdrmer"]
-	path = lua-cjson.drmingdrmer
-	url = git@github.com:drmingdrmer/lua-cjson.git
 	branch = master
 [submodule "dbcool.angda"]
 	path = dbcool.angda
