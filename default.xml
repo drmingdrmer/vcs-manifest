@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="meituan"
-           fetch="ssh://git@git.sankuai.com/~zhangyanpo/"
-           review="ssh://git@git.sankuai.com/~zhangyanpo/" />
+    <default
+        remote="meituan"
+        revision="master"
+        sync-j="4" />
 
-  <remote  name="github"
-           fetch="https://github.com/drmingdrmer/"
-           />
+    <remote
+        name="meituan"
+        fetch="ssh://git@git.sankuai.com/~zhangyanpo/"
+        />
 
-  <default revision="master"
-           remote="meituan"
-           sync-j="1" />
+    <remote
+        name="github-me"
+        fetch="git@github.com:drmingdrmer/"
+        />
 
-  <project path="s3plus" name="s3plus.git" groups="xp_proj" />
-  <project path="xptemplate" name="xptemplate.git" remote="github" revision="mix" groups="xp_proj" />
+    <remote
+        name="github"
+        fetch="https://github.com/"
+        />
+
+    <!-- <project remote="meituan"      path="s3plus" name="s3plus" groups="mt" /> -->
+
+    <project remote="github-me"    name="xptemplate" revision="mix" groups="xpdev" />
 </manifest>
