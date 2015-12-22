@@ -50,7 +50,7 @@
     <project groups="xpdev" remote="github-me"     name="xphplib"   revision="master"   />
     <project groups="xpdev" remote="github-me"     name="lua-consistent-hash-module"   revision="master"   />
     <project groups="xpdev" remote="github-me"     name="libbinlog"   revision="master"   />
-    <project groups="xpdev" remote="github-me"     name="lua-paxos"   revision="master"   />
+    <project groups="xpdev" remote="github-me"     name="lua-paxos"   revision="dev"   />
     <project groups="xpdev" remote="github-me"     name="ngx_http_fsutil_module"   revision="master"   />
     <project groups="xpdev" remote="github-me"     name="myee-share"   revision="master"   />
     <project groups="xpdev" remote="github-me"     name="pillowhelper"   revision="master"   />
