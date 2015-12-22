@@ -27,7 +27,6 @@
     <!-- <project remote="meituan"      path="s3plus" name="s3plus" groups="mt" /> -->
 
     <project groups="xpdev" remote="github-me"     name="xptemplate"   revision="mix"   />
-    <project groups="xpdev" remote="github-me"     name="2048bot"   revision="master"   />
     <project groups="xpdev" remote="github-me"     name="dreamcss"   revision="master"   />
     <project groups="xpdev" remote="github-me"     name="xpjs"   revision="master"   />
     <project groups="xpdev" remote="github-me"     name="drmingdrmer.github.io"   revision="master"   />
@@ -52,5 +51,7 @@
     <project groups="xpdev" remote="github-me"     name="vim-tiny-unittest"   revision="master"   />
     <project groups="xpdev" remote="github-me"     name="xpas"   revision="master"   />
     <project groups="xpdev" remote="github-me"     name="nginx-lua-merge"   revision="master"   />
+
+    <project groups="xpdev" remote="github-me"     name="2048bot"   revision="gh-pages"   />
 
 </manifest>
