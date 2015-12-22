@@ -58,14 +58,13 @@
     <project groups="xpdev" remote="github-me"     name="lua-cjson"   revision="master"
         path="lua-cjson.drmingdrmer" />
 
+    <project groups="xpdev" remote="github-me"     name="dbc.core"   revision="master" />
+
 <!--
 [submodule "s2/sinastorage"]
 	path = s2/sinastorage
 	url = git@bitbucket.org:drmingdrmer/sinastorage.git
 	branch = master
-[submodule "s2/sinastorage-client"]
-	path = s2/sinastorage-client
-	url = git@gitcafe.com:drmingdrmer/sinastorage-client.git
 [submodule "s2/s2-bit"]
 	path = s2/s2-bit
 	url = git@bitbucket.org:drmingdrmer/sinastorage.git
@@ -74,6 +73,9 @@
 	path = s2/conf4s2-bit
 	url = git@bitbucket.org:drmingdrmer/conf4s2.git
 	branch = master
+[submodule "s2/sinastorage-client"]
+	path = s2/sinastorage-client
+	url = git@gitcafe.com:drmingdrmer/sinastorage-client.git
 [submodule "dbcool.angda"]
 	path = dbcool.angda
 	url = git@github.com:angdali/dbc.core.git
