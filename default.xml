@@ -22,6 +22,21 @@
         fetch="ssh://git@github.com/"
         />
 
+    <remote
+        name="bitbucket-me"
+        fetch="ssh://git@bitbucket.org/drmingdrmer/"
+        />
+
+    <remote
+        name="bitbucket"
+        fetch="ssh://git@bitbucket.org/"
+        />
+
+    <remote
+        name="gitcafe-me"
+        fetch="ssh://git@gitcafe.com/drmingdrmer/"
+        />
+
     <!-- <project remote="meituan"      path="s3plus" name="s3plus" groups="mt" /> -->
 
     <project groups="xpdev" remote="github-me"     name="xptemplate"   revision="mix"   />
@@ -56,14 +71,16 @@
     <project groups="xpdev" remote="github-me"     name="lua-cjson"   revision="master"
         path="lua-cjson.drmingdrmer" />
 
-    <project groups="xpdev" remote="github"     name="angdali/dbc.core"   revision="master" />
+    <project groups="xpdev" remote="github"        name="angdali/dbc.core"   revision="master" />
+
+
+    <project groups="s2" remote="bitbucket-me"     name="sinastorage"   revision="master" />
+    <project groups="s2" remote="bitbucket-me"     name="conf4s2"   revision="master" />
+    <project groups="s2" remote="gitcafe-me"       name="sinastorage-client"   revision="master" />
+
 <!--
 [submodule "s2/sinastorage"]
 	path = s2/sinastorage
-	url = git@bitbucket.org:drmingdrmer/sinastorage.git
-	branch = master
-[submodule "s2/s2-bit"]
-	path = s2/s2-bit
 	url = git@bitbucket.org:drmingdrmer/sinastorage.git
 	branch = master
 [submodule "s2/conf4s2-bit"]
