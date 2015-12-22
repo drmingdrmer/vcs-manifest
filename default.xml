@@ -51,14 +51,13 @@
     <project groups="xpdev" remote="github-me"     name="vim-tiny-unittest"   revision="master"   />
     <project groups="xpdev" remote="github-me"     name="xpas"   revision="master"   />
     <project groups="xpdev" remote="github-me"     name="nginx-lua-merge"   revision="master"   />
+    <project groups="xpdev" remote="github-me"     name="dbc.core"   revision="master" />
 
     <project groups="xpdev" remote="github-me"     name="2048bot"   revision="gh-pages"   />
     <project groups="xpdev" remote="github-me"     name="next-number"   revision="gh-pages"   />
 
     <project groups="xpdev" remote="github-me"     name="lua-cjson"   revision="master"
         path="lua-cjson.drmingdrmer" />
-
-    <project groups="xpdev" remote="github-me"     name="dbc.core"   revision="master" />
 
 <!--
 [submodule "s2/sinastorage"]
@@ -76,9 +75,5 @@
 [submodule "s2/sinastorage-client"]
 	path = s2/sinastorage-client
 	url = git@gitcafe.com:drmingdrmer/sinastorage-client.git
-[submodule "dbcool.angda"]
-	path = dbcool.angda
-	url = git@github.com:angdali/dbc.core.git
-	branch = master
 -->
 </manifest>
