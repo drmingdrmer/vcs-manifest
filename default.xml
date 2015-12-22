@@ -53,5 +53,31 @@
     <project groups="xpdev" remote="github-me"     name="nginx-lua-merge"   revision="master"   />
 
     <project groups="xpdev" remote="github-me"     name="2048bot"   revision="gh-pages"   />
+    <project groups="xpdev" remote="github-me"     name="next-number"   revision="gh-pages"   />
 
+<!--
+[submodule "s2/sinastorage"]
+	path = s2/sinastorage
+	url = git@bitbucket.org:drmingdrmer/sinastorage.git
+	branch = master
+[submodule "s2/sinastorage-client"]
+	path = s2/sinastorage-client
+	url = git@gitcafe.com:drmingdrmer/sinastorage-client.git
+[submodule "s2/s2-bit"]
+	path = s2/s2-bit
+	url = git@bitbucket.org:drmingdrmer/sinastorage.git
+	branch = master
+[submodule "s2/conf4s2-bit"]
+	path = s2/conf4s2-bit
+	url = git@bitbucket.org:drmingdrmer/conf4s2.git
+	branch = master
+[submodule "lua-cjson.drmingdrmer"]
+	path = lua-cjson.drmingdrmer
+	url = git@github.com:drmingdrmer/lua-cjson.git
+	branch = master
+[submodule "dbcool.angda"]
+	path = dbcool.angda
+	url = git@github.com:angdali/dbc.core.git
+	branch = master
+-->
 </manifest>
