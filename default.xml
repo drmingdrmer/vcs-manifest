@@ -52,6 +52,5 @@
     <project groups="xpdev" remote="github-me"     name="vim-tiny-unittest"   revision="master"   />
     <project groups="xpdev" remote="github-me"     name="xpas"   revision="master"   />
     <project groups="xpdev" remote="github-me"     name="nginx-lua-merge"   revision="master"   />
-    <project groups="xpdev" remote="github-me"     name=""   revision="mix"   />
 
 </manifest>
