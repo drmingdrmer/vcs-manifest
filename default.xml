@@ -78,4 +78,7 @@
     <project groups="s2" remote="bitbucket-me"     name="conf4s2"   revision="master" />
     <project groups="s2" remote="gitcafe-me"       name="sinastorage-client"   revision="master" />
 
+    <project groups="xpdev" remote="bitbucket-me"     name="cacheservice"   revision="master" />
+    <project groups="xpdev" remote="bitbucket-me"     name="circularbuf"   revision="master" />
+
 </manifest>
