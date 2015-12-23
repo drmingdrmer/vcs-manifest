@@ -36,6 +36,26 @@
         fetch="ssh://git@gitcafe.com/drmingdrmer/"
         />
 
+    <remote
+        name="oschina"
+        fetch="http://git.oschina.net/"
+        />
+
+    <remote
+        name="dpdk"
+        fetch="git://dpdk.org/"
+        />
+
+    <remote
+        name="gnu"
+        fetch="git://gcc.gnu.org/git/"
+        />
+
+    <remote
+        name="sourceware"
+        fetch="git://sourceware.org/git/"
+        />
+
     <!-- <project remote="meituan"      path="s3plus" name="s3plus" groups="mt" /> -->
 
     <project groups="xpdev" remote="github-me" name="xptemplate" revision="mix" />
@@ -148,5 +168,10 @@
     <project groups="star" remote="github" path="shadowsocks" name="shadowsocks/shadowsocks" revision="master" />
     <project groups="star" remote="github" path="skynet" name="cloudwu/skynet" revision="master" />
     <project groups="star" remote="github" path="tidb" name="pingcap/tidb" revision="master" />
+
+    <project groups="star" remote="oschina" name="lins05/seafile" revision="master" />
+    <project groups="star" remote="dpdk" name="dpdk" revision="master" />
+    <project groups="star" remote="gnu" name="gcc" revision="master" />
+    <project groups="star" remote="sourceware" name="glibc" revision="master" />
 
 </manifest>
