@@ -2,16 +2,15 @@
 <manifest>
 
     <default
-        remote="meituan"
+        remote="github"
         revision="master"
-        sync-j="4" />
+        sync-j="8" />
 
     <remote
         name="meituan"
         fetch="ssh://git@git.sankuai.com/~zhangyanpo/"
         />
 
-    <!-- git@github.com:drmingdrmer/xptemplate.git -->
     <remote
         name="github-me"
         fetch="ssh://git@github.com/drmingdrmer/"
