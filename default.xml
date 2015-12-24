@@ -163,7 +163,7 @@
     <project groups="star" remote="github" path="paxos.cocagne" name="cocagne/paxos" revision="master" />
     <project groups="star" remote="github" path="pfff.facebook" name="facebook/pfff" revision="master" />
     <project groups="star" remote="github" path="redis" name="antirez/redis" revision="unstable" />
-    <project groups="star" remote="github" path="rethinkdb" name="rethinkdb/rethinkdb" revision="master" />
+    <project groups="star" remote="github" path="rethinkdb" name="rethinkdb/rethinkdb" revision="next" />
     <project groups="star" remote="github" path="scribe" name="facebook/scribe" revision="master" />
     <project groups="star" remote="github" path="shadowsocks" name="shadowsocks/shadowsocks" revision="master" />
     <project groups="star" remote="github" path="skynet" name="cloudwu/skynet" revision="master" />
