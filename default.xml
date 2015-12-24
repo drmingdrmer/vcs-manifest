@@ -100,6 +100,12 @@
     <project groups="xpdev" remote="bitbucket-me" name="cacheservice" revision="master" />
     <project groups="xpdev" remote="bitbucket-me" name="circularbuf" revision="master" />
 
+    <project groups="xpdev" remote="bitbucket-me" name="journal" revision="master" />
+    <project groups="xpdev" remote="bitbucket-me" name="notfs" revision="master" />
+    <project groups="xpdev" remote="bitbucket-me" name="quiz" revision="master" />
+    <project groups="xpdev" remote="bitbucket-me" name="zk4s2" revision="master" />
+    <project groups="xpdev" remote="bitbucket-me" name="ibiu" revision="master" />
+
     <project groups="star" remote="github" path="_c/Criterion" name="Snaipe/Criterion" revision="master" />
     <project groups="star" remote="github" path="_c/libcsptr" name="Snaipe/libcsptr" revision="master" />
     <project groups="star" remote="github" path="_lua/luaposix" name="luaposix/luaposix" revision="master" />
