@@ -149,7 +149,6 @@
     <project groups="star" remote="github" path="godropbox" name="dropbox/godropbox" revision="master" />
     <project groups="star" remote="github" path="gopkg.astaxie" name="astaxie/gopkg" revision="master" />
     <project groups="star" remote="github" path="groupcache.golang" name="golang/groupcache" revision="master" />
-    <project groups="star" remote="github" path="homebrew" name="Homebrew/homebrew" revision="master" />
     <project groups="star" remote="github" path="jsmin-php" name="rgrove/jsmin-php" revision="master" />
     <project groups="star" remote="github" path="libev" name="MarkTseng/libev" revision="master" />
     <project groups="star" remote="github" path="libphenom" name="facebook/libphenom" revision="master" />
