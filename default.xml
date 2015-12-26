@@ -173,6 +173,7 @@
     <project groups="star" remote="github" path="shadowsocks" name="shadowsocks/shadowsocks" revision="master" />
     <project groups="star" remote="github" path="skynet" name="cloudwu/skynet" revision="master" />
     <project groups="star" remote="github" path="tidb" name="pingcap/tidb" revision="master" />
+    <project groups="star" remote="github" path="lua-resty-http.pintsized" name="pintsized/lua-resty-http" revision="master" />
 
     <project groups="star" remote="oschina" name="lins05/seafile" revision="master" />
     <project groups="star" remote="dpdk" name="dpdk" revision="master" />
