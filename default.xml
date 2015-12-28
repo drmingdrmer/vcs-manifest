@@ -86,16 +86,16 @@
 
     <project groups="s2" remote="gitcafe-me" name="sinastorage-client" />
 
-    <project groups="s2" remote="bitbucket" name="dmringdremr/sinastorage" />
-    <project groups="s2" remote="bitbucket" name="dmringdremr/conf4s2" />
+    <project groups="s2" remote="bitbucket" name="drmingdrmer/sinastorage" />
+    <project groups="s2" remote="bitbucket" name="drmingdrmer/conf4s2" />
 
-    <project groups="xpdev" remote="bitbucket" name="dmringdremr/cacheservice" />
-    <project groups="xpdev" remote="bitbucket" name="dmringdremr/circularbuf" />
-    <project groups="xpdev" remote="bitbucket" name="dmringdremr/journal" />
-    <project groups="xpdev" remote="bitbucket" name="dmringdremr/notfs" />
-    <project groups="xpdev" remote="bitbucket" name="dmringdremr/quiz" />
-    <project groups="xpdev" remote="bitbucket" name="dmringdremr/zk4s2" />
-    <project groups="xpdev" remote="bitbucket" name="dmringdremr/ibiu" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/cacheservice" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/circularbuf" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/journal" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/notfs" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/quiz" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/zk4s2" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/ibiu" />
 
     <project groups="star" remote="github" path="_c/Criterion" name="Snaipe/Criterion" />
     <project groups="star" remote="github" path="_c/libcsptr" name="Snaipe/libcsptr" />
@@ -165,6 +165,8 @@
     <project groups="star" remote="github" path="skynet" name="cloudwu/skynet" />
     <project groups="star" remote="github" path="tidb" name="pingcap/tidb" />
     <project groups="star" remote="github" path="lua-resty-http.pintsized" name="pintsized/lua-resty-http" />
+
+    <project groups="star" remote="bitbucket" name="tsg-/liberasurecode" />
 
     <project groups="star" remote="oschina" name="lins05/seafile" />
     <project groups="star" remote="dpdk" name="dpdk" />
