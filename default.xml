@@ -17,11 +17,6 @@
         />
 
     <remote
-        name="bitbucket-me"
-        fetch="ssh://git@bitbucket.org/drmingdrmer/"
-        />
-
-    <remote
         name="bitbucket"
         fetch="ssh://git@bitbucket.org/"
         />
@@ -89,20 +84,18 @@
     <project groups="xpdev" remote="sankuai" name="nginx-s3" />
     <project groups="xpdev" remote="sankuai" name="s3plus" revision="d" />
 
-
     <project groups="s2" remote="gitcafe-me" name="sinastorage-client" />
 
-    <project groups="s2" remote="bitbucket-me" name="sinastorage" />
-    <project groups="s2" remote="bitbucket-me" name="conf4s2" />
+    <project groups="s2" remote="bitbucket" name="dmringdremr/sinastorage" />
+    <project groups="s2" remote="bitbucket" name="dmringdremr/conf4s2" />
 
-    <project groups="xpdev" remote="bitbucket-me" name="cacheservice" />
-    <project groups="xpdev" remote="bitbucket-me" name="circularbuf" />
-
-    <project groups="xpdev" remote="bitbucket-me" name="journal" />
-    <project groups="xpdev" remote="bitbucket-me" name="notfs" />
-    <project groups="xpdev" remote="bitbucket-me" name="quiz" />
-    <project groups="xpdev" remote="bitbucket-me" name="zk4s2" />
-    <project groups="xpdev" remote="bitbucket-me" name="ibiu" />
+    <project groups="xpdev" remote="bitbucket" name="dmringdremr/cacheservice" />
+    <project groups="xpdev" remote="bitbucket" name="dmringdremr/circularbuf" />
+    <project groups="xpdev" remote="bitbucket" name="dmringdremr/journal" />
+    <project groups="xpdev" remote="bitbucket" name="dmringdremr/notfs" />
+    <project groups="xpdev" remote="bitbucket" name="dmringdremr/quiz" />
+    <project groups="xpdev" remote="bitbucket" name="dmringdremr/zk4s2" />
+    <project groups="xpdev" remote="bitbucket" name="dmringdremr/ibiu" />
 
     <project groups="star" remote="github" path="_c/Criterion" name="Snaipe/Criterion" />
     <project groups="star" remote="github" path="_c/libcsptr" name="Snaipe/libcsptr" />
