@@ -88,7 +88,7 @@
     <project groups="xpdev" remote="github-me" name="next-number" revision="gh-pages" />
 
     <project groups="xpdev" remote="github-me" path="books.drmingdrmer" name="books" revision="gh-pages" />
-    <project groups="xpdev" remote="github-me" path="peervpn.drmingdrmer" name="peervpn" revision="gh-pages" />
+    <project groups="xpdev" remote="github-me" path="peervpn.drmingdrmer" name="peervpn" />
 
     <project groups="xpdev" remote="github-me" name="lua-cjson" revision="master"
         path="lua-cjson.drmingdrmer" />
