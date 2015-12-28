@@ -87,6 +87,8 @@
     <project groups="xpdev" remote="github-me" name="2048bot" revision="gh-pages" />
     <project groups="xpdev" remote="github-me" name="next-number" revision="gh-pages" />
 
+    <project groups="xpdev" remote="github-me" path="book.drmingdrmer" name="book" revision="master" />
+
     <project groups="xpdev" remote="github-me" name="lua-cjson" revision="master"
         path="lua-cjson.drmingdrmer" />
 
