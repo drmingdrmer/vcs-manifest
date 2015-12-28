@@ -7,11 +7,6 @@
         sync-j="8" />
 
     <remote
-        name="sankuai"
-        fetch="ssh://git@git.sankuai.com/~zhangyanpo/"
-        />
-
-    <remote
         name="github"
         fetch="ssh://git@github.com/"
         />
@@ -22,8 +17,8 @@
         />
 
     <remote
-        name="gitcafe-me"
-        fetch="ssh://git@gitcafe.com/drmingdrmer/"
+        name="gitcafe"
+        fetch="ssh://git@gitcafe.com/"
         />
 
     <remote
@@ -80,11 +75,7 @@
 
     <project groups="xpdev" remote="github" name="angdali/dbc.core" revision="master" />
 
-    <project groups="xpdev" remote="sankuai" name="blog" />
-    <project groups="xpdev" remote="sankuai" name="nginx-s3" />
-    <project groups="xpdev" remote="sankuai" name="s3plus" revision="d" />
-
-    <project groups="s2" remote="gitcafe-me" name="sinastorage-client" />
+    <project groups="s2" remote="gitcafe" name="drmingdrmer/sinastorage-client" />
 
     <project groups="s2" remote="bitbucket" name="drmingdrmer/sinastorage" />
     <project groups="s2" remote="bitbucket" name="drmingdrmer/conf4s2" />
