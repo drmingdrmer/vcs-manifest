@@ -7,7 +7,7 @@
         sync-j="8" />
 
     <remote
-        name="meituan"
+        name="sankuai"
         fetch="ssh://git@git.sankuai.com/~zhangyanpo/"
         />
 
@@ -56,8 +56,6 @@
         fetch="git://sourceware.org/git/"
         />
 
-    <!-- <project remote="meituan"      path="s3plus" name="s3plus" groups="mt" /> -->
-
     <project groups="xpdev" remote="github-me" name="xptemplate" revision="mix" />
     <project groups="xpdev" remote="github-me" name="dreamcss" revision="master" />
     <project groups="xpdev" remote="github-me" name="xpjs" revision="master" />
@@ -94,6 +92,10 @@
         path="lua-cjson.drmingdrmer" />
 
     <project groups="xpdev" remote="github" name="angdali/dbc.core" revision="master" />
+
+    <project groups="xpdev" remote="sankuai" name="blog" />
+    <project groups="xpdev" remote="sankuai" name="nginx-s3" />
+    <project groups="xpdev" remote="sankuai" name="s3plus" revision="d" />
 
 
     <project groups="s2" remote="bitbucket-me" name="sinastorage" revision="master" />
