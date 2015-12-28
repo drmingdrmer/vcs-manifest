@@ -90,91 +90,92 @@
     <project groups="xpdev" remote="sankuai" name="s3plus" revision="d" />
 
 
-    <project groups="s2" remote="bitbucket-me" name="sinastorage" revision="master" />
-    <project groups="s2" remote="bitbucket-me" name="conf4s2" revision="master" />
-    <project groups="s2" remote="gitcafe-me" name="sinastorage-client" revision="master" />
+    <project groups="s2" remote="gitcafe-me" name="sinastorage-client" />
 
-    <project groups="xpdev" remote="bitbucket-me" name="cacheservice" revision="master" />
-    <project groups="xpdev" remote="bitbucket-me" name="circularbuf" revision="master" />
+    <project groups="s2" remote="bitbucket-me" name="sinastorage" />
+    <project groups="s2" remote="bitbucket-me" name="conf4s2" />
 
-    <project groups="xpdev" remote="bitbucket-me" name="journal" revision="master" />
-    <project groups="xpdev" remote="bitbucket-me" name="notfs" revision="master" />
-    <project groups="xpdev" remote="bitbucket-me" name="quiz" revision="master" />
-    <project groups="xpdev" remote="bitbucket-me" name="zk4s2" revision="master" />
-    <project groups="xpdev" remote="bitbucket-me" name="ibiu" revision="master" />
+    <project groups="xpdev" remote="bitbucket-me" name="cacheservice" />
+    <project groups="xpdev" remote="bitbucket-me" name="circularbuf" />
 
-    <project groups="star" remote="github" path="_c/Criterion" name="Snaipe/Criterion" revision="master" />
-    <project groups="star" remote="github" path="_c/libcsptr" name="Snaipe/libcsptr" revision="master" />
-    <project groups="star" remote="github" path="_lua/luaposix" name="luaposix/luaposix" revision="master" />
-    <project groups="star" remote="github" path="_lua/underscore.lua.mirven" name="mirven/underscore.lua" revision="master" />
-    <project groups="star" remote="github" path="_openresty/drizzle-nginx-module" name="chaoslawful/drizzle-nginx-module" revision="master" />
-    <project groups="star" remote="github" path="_openresty/lua-nginx-module" name="openresty/lua-nginx-module" revision="master" />
-    <project groups="star" remote="github" path="_openresty/nginx-lua-stuff" name="mindreframer/nginx-lua-stuff" revision="master" />
-    <project groups="star" remote="github" path="_openresty/ngx_openresty" name="openresty/ngx_openresty" revision="master" />
-    <project groups="star" remote="github" path="_queue/resque.resque" name="resque/resque" revision="master" />
-    <project groups="star" remote="github" path="_queue/rq.nvie" name="nvie/rq" revision="master" />
-    <project groups="star" remote="github" path="_redis/redigo" name="garyburd/redigo" revision="master" />
-    <project groups="star" remote="github" path="_web/DeerResume.geekcompany" name="geekcompany/DeerResume" revision="master" />
-    <project groups="star" remote="github" path="_web/Font-Awesome.FortAwesome" name="FortAwesome/Font-Awesome" revision="master" />
-    <project groups="star" remote="github" path="_web/Lettering.js" name="davatron5000/Lettering.js" revision="master" />
-    <project groups="star" remote="github" path="_web/MathJax" name="mathjax/MathJax" revision="master" />
-    <project groups="star" remote="github" path="_web/_css/stylus.stylus" name="stylus/stylus" revision="master" />
-    <project groups="star" remote="github" path="_web/_md/markdown-js.evilstreak" name="evilstreak/markdown-js" revision="master" />
-    <project groups="star" remote="github" path="_web/_md/marked" name="chjj/marked" revision="master" />
-    <project groups="star" remote="github" path="_web/_md/showdown.coreyti" name="coreyti/showdown" revision="master" />
-    <project groups="star" remote="github" path="_web/_notify/humane-js.wavded" name="wavded/humane-js" revision="master" />
-    <project groups="star" remote="github" path="_web/_notify/noty.needim" name="needim/noty" revision="master" />
-    <project groups="star" remote="github" path="_web/_notify/pnotify.sciactive" name="sciactive/pnotify" revision="master" />
-    <project groups="star" remote="github" path="_web/backbone" name="jashkenas/backbone" revision="master" />
-    <project groups="star" remote="github" path="_web/bootstrap" name="twbs/bootstrap" revision="master" />
-    <project groups="star" remote="github" path="_web/jquery" name="jquery/jquery" revision="master" />
-    <project groups="star" remote="github" path="_web/jquery-tmpl" name="jquery/jquery-tmpl" revision="master" />
-    <project groups="star" remote="github" path="_web/react.facebook" name="facebook/react" revision="master" />
-    <project groups="star" remote="github" path="bitcask" name="basho/bitcask" revision="master" />
-    <project groups="star" remote="github" path="book" name="qyuhen/book" revision="master" />
-    <project groups="star" remote="github" path="boto" name="boto/boto" revision="master" />
-    <project groups="star" remote="github" path="build-web-application-with-golang" name="astaxie/build-web-application-with-golang" revision="master" />
-    <project groups="star" remote="github" path="celery.celery" name="celery/celery" revision="master" />
-    <project groups="star" remote="github" path="ck" name="concurrencykit/ck" revision="master" />
-    <project groups="star" remote="github" path="etcd" name="coreos/etcd" revision="master" />
-    <project groups="star" remote="github" path="folly" name="facebook/folly" revision="master" />
-    <project groups="star" remote="github" path="ft-index" name="Tokutek/ft-index" revision="master" />
-    <project groups="star" remote="github" path="git" name="git/git" revision="master" />
-    <project groups="star" remote="github" path="git-scripts" name="jwiegley/git-scripts" revision="master" />
-    <project groups="star" remote="github" path="glib" name="GNOME/glib" revision="master" />
-    <project groups="star" remote="github" path="go" name="golang/go" revision="master" />
-    <project groups="star" remote="github" path="godropbox" name="dropbox/godropbox" revision="master" />
-    <project groups="star" remote="github" path="gopkg.astaxie" name="astaxie/gopkg" revision="master" />
-    <project groups="star" remote="github" path="groupcache.golang" name="golang/groupcache" revision="master" />
-    <project groups="star" remote="github" path="jsmin-php" name="rgrove/jsmin-php" revision="master" />
-    <project groups="star" remote="github" path="libev" name="MarkTseng/libev" revision="master" />
-    <project groups="star" remote="github" path="libphenom" name="facebook/libphenom" revision="master" />
-    <project groups="star" remote="github" path="libuv" name="libuv/libuv" revision="master" />
-    <project groups="star" remote="github" path="luaevent.harningt" name="harningt/luaevent" revision="master" />
-    <project groups="star" remote="github" path="lwan" name="lpereira/lwan" revision="master" />
-    <project groups="star" remote="github" path="mcrouter" name="facebook/mcrouter" revision="master" />
-    <project groups="star" remote="github" path="memcached" name="memcached/memcached" revision="master" />
-    <project groups="star" remote="github" path="minio" name="minio/minio" revision="master" />
-    <project groups="star" remote="github" path="mptun" name="cloudwu/mptun" revision="master" />
-    <project groups="star" remote="github" path="multi-Pings" name="xiaoxuanzi/multi-Pings" revision="master" />
-    <project groups="star" remote="github" path="nginx-hg-mirror" name="nginx/nginx" revision="master" />
-    <project groups="star" remote="github" path="nginx-releases" name="nginx/nginx-releases" revision="master" />
-    <project groups="star" remote="github" path="nginx-svn-mirror" name="git-mirror/nginx" revision="master" />
-    <project groups="star" remote="github" path="ngxtop" name="lebinh/ngxtop" revision="master" />
-    <project groups="star" remote="github" path="papers-we-love" name="papers-we-love/papers-we-love" revision="master" />
-    <project groups="star" remote="github" path="paxos.cocagne" name="cocagne/paxos" revision="master" />
-    <project groups="star" remote="github" path="pfff.facebook" name="facebook/pfff" revision="master" />
+    <project groups="xpdev" remote="bitbucket-me" name="journal" />
+    <project groups="xpdev" remote="bitbucket-me" name="notfs" />
+    <project groups="xpdev" remote="bitbucket-me" name="quiz" />
+    <project groups="xpdev" remote="bitbucket-me" name="zk4s2" />
+    <project groups="xpdev" remote="bitbucket-me" name="ibiu" />
+
+    <project groups="star" remote="github" path="_c/Criterion" name="Snaipe/Criterion" />
+    <project groups="star" remote="github" path="_c/libcsptr" name="Snaipe/libcsptr" />
+    <project groups="star" remote="github" path="_lua/luaposix" name="luaposix/luaposix" />
+    <project groups="star" remote="github" path="_lua/underscore.lua.mirven" name="mirven/underscore.lua" />
+    <project groups="star" remote="github" path="_openresty/drizzle-nginx-module" name="chaoslawful/drizzle-nginx-module" />
+    <project groups="star" remote="github" path="_openresty/lua-nginx-module" name="openresty/lua-nginx-module" />
+    <project groups="star" remote="github" path="_openresty/nginx-lua-stuff" name="mindreframer/nginx-lua-stuff" />
+    <project groups="star" remote="github" path="_openresty/ngx_openresty" name="openresty/ngx_openresty" />
+    <project groups="star" remote="github" path="_queue/resque.resque" name="resque/resque" />
+    <project groups="star" remote="github" path="_queue/rq.nvie" name="nvie/rq" />
+    <project groups="star" remote="github" path="_redis/redigo" name="garyburd/redigo" />
+    <project groups="star" remote="github" path="_web/DeerResume.geekcompany" name="geekcompany/DeerResume" />
+    <project groups="star" remote="github" path="_web/Font-Awesome.FortAwesome" name="FortAwesome/Font-Awesome" />
+    <project groups="star" remote="github" path="_web/Lettering.js" name="davatron5000/Lettering.js" />
+    <project groups="star" remote="github" path="_web/MathJax" name="mathjax/MathJax" />
+    <project groups="star" remote="github" path="_web/_css/stylus.stylus" name="stylus/stylus" />
+    <project groups="star" remote="github" path="_web/_md/markdown-js.evilstreak" name="evilstreak/markdown-js" />
+    <project groups="star" remote="github" path="_web/_md/marked" name="chjj/marked" />
+    <project groups="star" remote="github" path="_web/_md/showdown.coreyti" name="coreyti/showdown" />
+    <project groups="star" remote="github" path="_web/_notify/humane-js.wavded" name="wavded/humane-js" />
+    <project groups="star" remote="github" path="_web/_notify/noty.needim" name="needim/noty" />
+    <project groups="star" remote="github" path="_web/_notify/pnotify.sciactive" name="sciactive/pnotify" />
+    <project groups="star" remote="github" path="_web/backbone" name="jashkenas/backbone" />
+    <project groups="star" remote="github" path="_web/bootstrap" name="twbs/bootstrap" />
+    <project groups="star" remote="github" path="_web/jquery" name="jquery/jquery" />
+    <project groups="star" remote="github" path="_web/jquery-tmpl" name="jquery/jquery-tmpl" />
+    <project groups="star" remote="github" path="_web/react.facebook" name="facebook/react" />
+    <project groups="star" remote="github" path="bitcask" name="basho/bitcask" />
+    <project groups="star" remote="github" path="book" name="qyuhen/book" />
+    <project groups="star" remote="github" path="boto" name="boto/boto" />
+    <project groups="star" remote="github" path="build-web-application-with-golang" name="astaxie/build-web-application-with-golang" />
+    <project groups="star" remote="github" path="celery.celery" name="celery/celery" />
+    <project groups="star" remote="github" path="ck" name="concurrencykit/ck" />
+    <project groups="star" remote="github" path="etcd" name="coreos/etcd" />
+    <project groups="star" remote="github" path="folly" name="facebook/folly" />
+    <project groups="star" remote="github" path="ft-index" name="Tokutek/ft-index" />
+    <project groups="star" remote="github" path="git" name="git/git" />
+    <project groups="star" remote="github" path="git-scripts" name="jwiegley/git-scripts" />
+    <project groups="star" remote="github" path="glib" name="GNOME/glib" />
+    <project groups="star" remote="github" path="go" name="golang/go" />
+    <project groups="star" remote="github" path="godropbox" name="dropbox/godropbox" />
+    <project groups="star" remote="github" path="gopkg.astaxie" name="astaxie/gopkg" />
+    <project groups="star" remote="github" path="groupcache.golang" name="golang/groupcache" />
+    <project groups="star" remote="github" path="jsmin-php" name="rgrove/jsmin-php" />
+    <project groups="star" remote="github" path="libev" name="MarkTseng/libev" />
+    <project groups="star" remote="github" path="libphenom" name="facebook/libphenom" />
+    <project groups="star" remote="github" path="libuv" name="libuv/libuv" />
+    <project groups="star" remote="github" path="luaevent.harningt" name="harningt/luaevent" />
+    <project groups="star" remote="github" path="lwan" name="lpereira/lwan" />
+    <project groups="star" remote="github" path="mcrouter" name="facebook/mcrouter" />
+    <project groups="star" remote="github" path="memcached" name="memcached/memcached" />
+    <project groups="star" remote="github" path="minio" name="minio/minio" />
+    <project groups="star" remote="github" path="mptun" name="cloudwu/mptun" />
+    <project groups="star" remote="github" path="multi-Pings" name="xiaoxuanzi/multi-Pings" />
+    <project groups="star" remote="github" path="nginx-hg-mirror" name="nginx/nginx" />
+    <project groups="star" remote="github" path="nginx-releases" name="nginx/nginx-releases" />
+    <project groups="star" remote="github" path="nginx-svn-mirror" name="git-mirror/nginx" />
+    <project groups="star" remote="github" path="ngxtop" name="lebinh/ngxtop" />
+    <project groups="star" remote="github" path="papers-we-love" name="papers-we-love/papers-we-love" />
+    <project groups="star" remote="github" path="paxos.cocagne" name="cocagne/paxos" />
+    <project groups="star" remote="github" path="pfff.facebook" name="facebook/pfff" />
     <project groups="star" remote="github" path="redis" name="antirez/redis" revision="unstable" />
     <project groups="star" remote="github" path="rethinkdb" name="rethinkdb/rethinkdb" revision="next" />
-    <project groups="star" remote="github" path="scribe" name="facebook/scribe" revision="master" />
-    <project groups="star" remote="github" path="shadowsocks" name="shadowsocks/shadowsocks" revision="master" />
-    <project groups="star" remote="github" path="skynet" name="cloudwu/skynet" revision="master" />
-    <project groups="star" remote="github" path="tidb" name="pingcap/tidb" revision="master" />
-    <project groups="star" remote="github" path="lua-resty-http.pintsized" name="pintsized/lua-resty-http" revision="master" />
+    <project groups="star" remote="github" path="scribe" name="facebook/scribe" />
+    <project groups="star" remote="github" path="shadowsocks" name="shadowsocks/shadowsocks" />
+    <project groups="star" remote="github" path="skynet" name="cloudwu/skynet" />
+    <project groups="star" remote="github" path="tidb" name="pingcap/tidb" />
+    <project groups="star" remote="github" path="lua-resty-http.pintsized" name="pintsized/lua-resty-http" />
 
-    <project groups="star" remote="oschina" name="lins05/seafile" revision="master" />
-    <project groups="star" remote="dpdk" name="dpdk" revision="master" />
-    <project groups="star" remote="gnu" name="gcc" revision="master" />
-    <project groups="star" remote="sourceware" name="glibc" revision="master" />
+    <project groups="star" remote="oschina" name="lins05/seafile" />
+    <project groups="star" remote="dpdk" name="dpdk" />
+    <project groups="star" remote="gnu" name="gcc" />
+    <project groups="star" remote="sourceware" name="glibc" />
 
 </manifest>
