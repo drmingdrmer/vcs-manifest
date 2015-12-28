@@ -12,11 +12,6 @@
         />
 
     <remote
-        name="github-me"
-        fetch="ssh://git@github.com/drmingdrmer/"
-        />
-
-    <remote
         name="github"
         fetch="ssh://git@github.com/"
         />
@@ -56,38 +51,35 @@
         fetch="git://sourceware.org/git/"
         />
 
-    <project groups="xpdev" remote="github-me" name="xptemplate" revision="mix" />
-    <project groups="xpdev" remote="github-me" name="dreamcss" revision="master" />
-    <project groups="xpdev" remote="github-me" name="xpjs" revision="master" />
-    <project groups="xpdev" remote="github-me" name="drmingdrmer.github.io" revision="master" />
-    <project groups="xpdev" remote="github-me" name="pypaxos" revision="master" />
-    <project groups="xpdev" remote="github-me" name="xpsnippet" revision="master" />
-    <project groups="xpdev" remote="github-me" name="tankdb" revision="master" />
-    <project groups="xpdev" remote="github-me" name="ngx_http_shmdict_module" revision="master" />
-    <project groups="xpdev" remote="github-me" name="xphplib" revision="master" />
-    <project groups="xpdev" remote="github-me" name="lua-consistent-hash-module" revision="master" />
-    <project groups="xpdev" remote="github-me" name="libbinlog" revision="master" />
-    <project groups="xpdev" remote="github-me" name="lua-paxos" revision="dev" />
-    <project groups="xpdev" remote="github-me" name="ngx_http_fsutil_module" revision="master" />
-    <project groups="xpdev" remote="github-me" name="myee-share" revision="master" />
-    <project groups="xpdev" remote="github-me" name="pillowhelper" revision="master" />
-    <project groups="xpdev" remote="github-me" name="vweb" revision="master" />
-    <project groups="xpdev" remote="github-me" name="foolang" revision="master" />
-    <project groups="xpdev" remote="github-me" name="vim-fuzzyjumpto" revision="master" />
-    <project groups="xpdev" remote="github-me" name="dnsmasq-conf-mng" revision="master" />
-    <project groups="xpdev" remote="github-me" name="shbookmark" revision="master" />
-    <project groups="xpdev" remote="github-me" name="vim-syntax-markdown" revision="master" />
-    <project groups="xpdev" remote="github-me" name="vim-xpsnip" revision="master" />
-    <project groups="xpdev" remote="github-me" name="vim-tiny-unittest" revision="master" />
-    <project groups="xpdev" remote="github-me" name="xpas" revision="master" />
-    <project groups="xpdev" remote="github-me" name="nginx-lua-merge" revision="master" />
-
-    <project groups="xpdev" remote="github-me" name="2048bot" revision="gh-pages" />
-    <project groups="xpdev" remote="github-me" name="next-number" revision="gh-pages" />
-
-    <project groups="xpdev" remote="github-me" path="books.drmingdrmer" name="books" revision="gh-pages" />
-    <project groups="xpdev" remote="github-me" path="peervpn.drmingdrmer" name="peervpn" />
-
+    <project groups="xpdev" remote="github" name="drmingdrmer/xptemplate" revision="mix" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/dreamcss" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/xpjs" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/drmingdrmer.github.io" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/pypaxos" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/xpsnippet" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/tankdb" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/ngx_http_shmdict_module" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/xphplib" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/lua-consistent-hash-module" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/libbinlog" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/lua-paxos" revision="dev" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/ngx_http_fsutil_module" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/myee-share" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/pillowhelper" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vweb" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/foolang" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vim-fuzzyjumpto" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/dnsmasq-conf-mng" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/shbookmark" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vim-syntax-markdown" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vim-xpsnip" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vim-tiny-unittest" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/xpas" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/nginx-lua-merge" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/2048bot" revision="gh-pages" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/next-number" revision="gh-pages" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/books" revision="gh-pages" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/peervpn" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-cjson" />
     <project groups="xpdev" remote="github" name="drmingdrmer/sae-mgr" />
 
