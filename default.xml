@@ -63,6 +63,7 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/sae-mgr" />
     <project groups="xpdev" remote="github" name="drmingdrmer/shbookmark" />
     <project groups="xpdev" remote="github" name="drmingdrmer/tankdb" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vcscommand.vim" />
     <project groups="xpdev" remote="github" name="drmingdrmer/vim-fuzzyjumpto" />
     <project groups="xpdev" remote="github" name="drmingdrmer/vim-syntax-markdown" />
     <project groups="xpdev" remote="github" name="drmingdrmer/vim-tiny-unittest" />
