@@ -48,6 +48,7 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/drmingdrmer.github.io" />
     <project groups="xpdev" remote="github" name="drmingdrmer/foolang" />
     <project groups="xpdev" remote="github" name="drmingdrmer/libbinlog" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/lrc-ec" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-cjson" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-consistent-hash-module" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-paxos" revision="dev" />
