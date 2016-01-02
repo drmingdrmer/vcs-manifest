@@ -137,7 +137,6 @@
     <project groups="star" remote="github" path="libphenom" name="facebook/libphenom" />
     <project groups="star" remote="github" path="libuv" name="libuv/libuv" />
     <project groups="star" remote="github" path="luaevent.harningt" name="harningt/luaevent" />
-    <project groups="star" remote="github" path="lwan" name="lpereira/lwan" />
     <project groups="star" remote="github" path="mcrouter" name="facebook/mcrouter" />
     <project groups="star" remote="github" path="memcached" name="memcached/memcached" />
     <project groups="star" remote="github" path="minio" name="minio/minio" />
