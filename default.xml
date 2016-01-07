@@ -157,6 +157,7 @@
     <project groups="star" remote="github" name="pingcap/tidb" />
     <project groups="star" remote="github" name="pintsized/lua-resty-http" />
     <project groups="star" remote="github" name="shower/shower" />
+    <project groups="star" remote="github" name="ceph/ceph" />
 
     <project groups="star" remote="bitbucket" name="tsg-/liberasurecode" />
 
