@@ -53,6 +53,7 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-cjson" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-consistent-hash-module" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-paxos" revision="dev" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-http" revision="mix" />
     <project groups="xpdev" remote="github" name="drmingdrmer/myee-share" />
     <project groups="xpdev" remote="github" name="drmingdrmer/next-number" revision="gh-pages" />
     <project groups="xpdev" remote="github" name="drmingdrmer/nginx-lua-merge" />
