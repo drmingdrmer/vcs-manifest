@@ -97,9 +97,7 @@
     <project groups="star lua" remote="github" name="luaposix/luaposix" />
     <project groups="star lua" remote="github" name="mirven/underscore.lua" />
     <project groups="star" remote="github" path="_openresty/drizzle-nginx-module" name="chaoslawful/drizzle-nginx-module" />
-    <project groups="star" remote="github" path="_openresty/lua-nginx-module" name="openresty/lua-nginx-module" />
     <project groups="star" remote="github" path="_openresty/nginx-lua-stuff" name="mindreframer/nginx-lua-stuff" />
-    <project groups="star" remote="github" path="_openresty/ngx_openresty" name="openresty/ngx_openresty" />
     <project groups="star" remote="github" path="_queue/resque.resque" name="resque/resque" />
     <project groups="star" remote="github" path="_queue/rq.nvie" name="nvie/rq" />
     <project groups="star" remote="github" path="_redis/redigo" name="garyburd/redigo" />
@@ -121,6 +119,9 @@
     <project groups="star" remote="github" path="_web/react.facebook" name="facebook/react" />
     <project groups="star" remote="github" name="basho/bitcask" />
     <project groups="star" remote="github" name="qyuhen/book" />
+    <project groups="star" remote="github" name="openresty/lua-nginx-module" />
+    <project groups="star" remote="github" name="openresty/test-nginx" />
+    <project groups="star" remote="github" name="openresty/ngx_openresty" />
     <project groups="star" remote="github" name="boto/boto" />
     <project groups="star" remote="github" name="astaxie/build-web-application-with-golang" />
     <project groups="star" remote="github" name="celery/celery" />
