@@ -162,6 +162,7 @@
     <project groups="star" remote="github" name="shower/shower" />
     <project groups="star" remote="github" name="ceph/ceph" />
     <project groups="star" remote="github" name="rswier/c4" />
+    <project groups="star" remote="github" name="chaoslawful/etcproxy" />
 
     <project groups="star" remote="bitbucket" name="tsg-/liberasurecode" />
 
