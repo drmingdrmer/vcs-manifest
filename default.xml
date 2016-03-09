@@ -125,6 +125,7 @@
     <project groups="star" remote="github" name="boto/boto" />
     <project groups="star" remote="github" name="astaxie/build-web-application-with-golang" />
     <project groups="star" remote="github" name="celery/celery" />
+    <project groups="star" remote="github" name="cockroachdb/cockroach" />
     <project groups="star" remote="github" name="concurrencykit/ck" />
     <project groups="star" remote="github" name="coreos/etcd" />
     <project groups="star" remote="github" name="facebook/folly" />
