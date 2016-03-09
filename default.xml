@@ -51,6 +51,7 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/libbinlog" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lrc-erasure-code" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-cjson" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/devops" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-consistent-hash-module" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-paxos" revision="dev" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-core" />
