@@ -43,6 +43,7 @@
 
     <project groups="xpdev" remote="github" name="drmingdrmer/2048bot" revision="gh-pages" />
     <project groups="xpdev" remote="github" name="drmingdrmer/books" revision="gh-pages" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/devops" />
     <project groups="xpdev" remote="github" name="drmingdrmer/dnsmasq-conf-mng" />
     <project groups="xpdev" remote="github" name="drmingdrmer/dreamcss" />
     <project groups="xpdev" remote="github" name="drmingdrmer/drmingdrmer.github.io" />
@@ -51,7 +52,6 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/libbinlog" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lrc-erasure-code" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-cjson" />
-    <project groups="xpdev" remote="github" name="drmingdrmer/devops" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-consistent-hash-module" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-paxos" revision="dev" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-core" />
@@ -75,6 +75,7 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/xpas" />
     <project groups="xpdev" remote="github" name="drmingdrmer/xphplib" />
     <project groups="xpdev" remote="github" name="drmingdrmer/xpjs" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/xpsjs" />
     <project groups="xpdev" remote="github" name="drmingdrmer/xpsnippet" />
     <project groups="xpdev" remote="github" name="drmingdrmer/xptemplate" revision="mix" />
 
