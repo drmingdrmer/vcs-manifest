@@ -120,6 +120,7 @@
     <project groups="star" remote="github" path="_web/jquery-tmpl" name="jquery/jquery-tmpl" />
     <project groups="star" remote="github" path="_web/react.facebook" name="facebook/react" />
     <project groups="star" remote="github" name="1000ch/grd" revision="gh-pages" />
+    <project groups="star" remote="github" name="ansible/ansible-examples" />
     <project groups="star" remote="github" name="basho/bitcask" />
     <project groups="star" remote="github" name="qyuhen/book" />
     <project groups="star" remote="github" name="openresty/lua-nginx-module" />
