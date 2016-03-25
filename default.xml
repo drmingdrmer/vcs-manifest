@@ -79,8 +79,6 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/xpsnippet" />
     <project groups="xpdev" remote="github" name="drmingdrmer/xptemplate" revision="mix" />
 
-    <project groups="xpdev" remote="github" name="angdali/dbc.core" revision="master" />
-
     <project groups="s2" remote="gitcafe" name="drmingdrmer/sinastorage-client" />
 
     <project groups="s2" remote="bitbucket" name="drmingdrmer/sinastorage" />
