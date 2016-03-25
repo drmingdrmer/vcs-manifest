@@ -120,55 +120,56 @@
     <project groups="star" remote="github" path="_web/jquery-tmpl" name="jquery/jquery-tmpl" />
     <project groups="star" remote="github" path="_web/react.facebook" name="facebook/react" />
     <project groups="star" remote="github" name="1000ch/grd" revision="gh-pages" />
+    <project groups="star" remote="github" name="GNOME/glib" />
+    <project groups="star" remote="github" name="MarkTseng/libev" />
+    <project groups="star" remote="github" name="Tokutek/ft-index" />
     <project groups="star" remote="github" name="ansible/ansible-examples" />
-    <project groups="star" remote="github" name="basho/bitcask" />
-    <project groups="star" remote="github" name="qyuhen/book" />
-    <project groups="star" remote="github" name="openresty/lua-nginx-module" />
-    <project groups="star" remote="github" name="openresty/test-nginx" />
-    <project groups="star" remote="github" name="openresty/ngx_openresty" />
-    <project groups="star" remote="github" name="boto/boto" />
+    <project groups="star" remote="github" name="antirez/redis" revision="unstable" />
     <project groups="star" remote="github" name="astaxie/build-web-application-with-golang" />
+    <project groups="star" remote="github" name="astaxie/gopkg" />
+    <project groups="star" remote="github" name="basho/bitcask" />
+    <project groups="star" remote="github" name="boto/boto" />
     <project groups="star" remote="github" name="celery/celery" />
+    <project groups="star" remote="github" name="ceph/ceph" />
+    <project groups="star" remote="github" name="chaoslawful/etcproxy" />
+    <project groups="star" remote="github" name="cloudwu/mptun" />
+    <project groups="star" remote="github" name="cloudwu/skynet" />
+    <project groups="star" remote="github" name="cocagne/paxos" />
     <project groups="star" remote="github" name="cockroachdb/cockroach" />
     <project groups="star" remote="github" name="concurrencykit/ck" />
     <project groups="star" remote="github" name="coreos/etcd" />
-    <project groups="star" remote="github" name="facebook/folly" />
-    <project groups="star" remote="github" name="Tokutek/ft-index" />
-    <project groups="star" remote="github" name="git/git" />
-    <project groups="star" remote="github" name="jwiegley/git-scripts" />
-    <project groups="star" remote="github" name="GNOME/glib" />
-    <project groups="star" remote="github" name="golang/go" />
     <project groups="star" remote="github" name="dropbox/godropbox" />
-    <project groups="star" remote="github" name="astaxie/gopkg" />
-    <project groups="star" remote="github" name="golang/groupcache" />
-    <project groups="star" remote="github" name="rgrove/jsmin-php" />
-    <project groups="star" remote="github" name="MarkTseng/libev" />
+    <project groups="star" remote="github" name="facebook/folly" />
     <project groups="star" remote="github" name="facebook/libphenom" />
-    <project groups="star" remote="github" name="libuv/libuv" />
-    <project groups="star" remote="github" name="harningt/luaevent" />
     <project groups="star" remote="github" name="facebook/mcrouter" />
+    <project groups="star" remote="github" name="facebook/pfff" />
+    <project groups="star" remote="github" name="facebook/scribe" />
+    <project groups="star" remote="github" name="git-mirror/nginx" />
+    <project groups="star" remote="github" name="git/git" />
+    <project groups="star" remote="github" name="golang/go" />
+    <project groups="star" remote="github" name="golang/groupcache" />
+    <project groups="star" remote="github" name="harningt/luaevent" />
+    <project groups="star" remote="github" name="jwiegley/git-scripts" />
+    <project groups="star" remote="github" name="lebinh/ngxtop" />
+    <project groups="star" remote="github" name="libuv/libuv" />
     <project groups="star" remote="github" name="memcached/memcached" />
     <project groups="star" remote="github" name="minio/minio" />
-    <project groups="star" remote="github" name="cloudwu/mptun" />
-    <project groups="star" remote="github" name="xiaoxuanzi/multi-Pings" />
     <project groups="star" remote="github" name="nginx/nginx" />
     <project groups="star" remote="github" name="nginx/nginx-releases" />
-    <project groups="star" remote="github" name="git-mirror/nginx" />
-    <project groups="star" remote="github" name="lebinh/ngxtop" />
+    <project groups="star" remote="github" name="openresty/lua-nginx-module" />
+    <project groups="star" remote="github" name="openresty/ngx_openresty" />
+    <project groups="star" remote="github" name="openresty/test-nginx" />
     <project groups="star" remote="github" name="papers-we-love/papers-we-love" />
-    <project groups="star" remote="github" name="cocagne/paxos" />
-    <project groups="star" remote="github" name="facebook/pfff" />
-    <project groups="star" remote="github" name="antirez/redis" revision="unstable" />
-    <project groups="star" remote="github" name="rethinkdb/rethinkdb" revision="next" />
-    <project groups="star" remote="github" name="facebook/scribe" />
-    <project groups="star" remote="github" name="shadowsocks/shadowsocks" />
-    <project groups="star" remote="github" name="cloudwu/skynet" />
     <project groups="star" remote="github" name="pingcap/tidb" />
     <project groups="star" remote="github" name="pintsized/lua-resty-http" />
-    <project groups="star" remote="github" name="shower/shower" />
-    <project groups="star" remote="github" name="ceph/ceph" />
+    <project groups="star" remote="github" name="qiniu/php-sdk" />
+    <project groups="star" remote="github" name="qyuhen/book" />
+    <project groups="star" remote="github" name="rethinkdb/rethinkdb" revision="next" />
+    <project groups="star" remote="github" name="rgrove/jsmin-php" />
     <project groups="star" remote="github" name="rswier/c4" />
-    <project groups="star" remote="github" name="chaoslawful/etcproxy" />
+    <project groups="star" remote="github" name="shadowsocks/shadowsocks" />
+    <project groups="star" remote="github" name="shower/shower" />
+    <project groups="star" remote="github" name="xiaoxuanzi/multi-Pings" />
 
     <project groups="star" remote="bitbucket" name="tsg-/liberasurecode" />
 
