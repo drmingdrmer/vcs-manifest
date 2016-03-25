@@ -87,6 +87,7 @@
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/cacheservice" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/circularbuf" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/journal" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/lua-struct-db" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/notfs" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/quiz" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/zk4s2" />
