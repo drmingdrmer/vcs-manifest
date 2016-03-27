@@ -91,6 +91,8 @@
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/lua-struct-db" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/notfs" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/quiz" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/s2-bs-conf" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/s2-bs-etcd" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/s2-bs-zk" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/zk4s2" />
 
