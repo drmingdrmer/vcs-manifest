@@ -17,8 +17,8 @@
         />
 
     <remote
-        name="gitcafe"
-        fetch="ssh://git@gitcafe.com/"
+        name="coding"
+        fetch="ssh://git@git.coding.net/"
         />
 
     <remote
@@ -79,10 +79,21 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/xpsnippet" />
     <project groups="xpdev" remote="github" name="drmingdrmer/xptemplate" revision="mix" />
 
-    <project groups="s2" remote="gitcafe" name="drmingdrmer/sinastorage-client" />
+
+    <project groups="s2" remote="coding" name="drmingdrmer/sinastorage-client" />
+    <project groups="s2" remote="coding" name="drmingdrmer/s2-deploy" />
+    <project groups="s2" remote="coding" name="drmingdrmer/s2-init" />
+
+    <project groups="xpdev" remote="coding" name="drmingdrmer/homefolder" />
+    <project groups="xpdev" remote="coding" name="drmingdrmer/ibiu" />
+    <project groups="xpdev" remote="coding" name="drmingdrmer/xpkit" />
+
 
     <project groups="s2" remote="bitbucket" name="drmingdrmer/sinastorage" />
     <project groups="s2" remote="bitbucket" name="drmingdrmer/conf4s2" />
+    <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-bs-conf" />
+    <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-bs-etcd" />
+    <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-bs-zk" />
 
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/cacheservice" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/circularbuf" />
@@ -91,11 +102,9 @@
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/lua-struct-db" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/notfs" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/quiz" />
-    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/s2-bs-conf" />
-    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/s2-bs-etcd" />
-    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/s2-bs-zk" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/zk4s2" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/etcd4s2" />
+
 
     <project groups="star c" remote="github" name="Snaipe/Criterion" />
     <project groups="star c" remote="github" name="Snaipe/libcsptr" />
