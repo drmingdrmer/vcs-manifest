@@ -85,7 +85,6 @@
     <project groups="s2" remote="coding" name="drmingdrmer/s2-init" />
 
     <project groups="xpdev" remote="coding" name="drmingdrmer/homefolder" />
-    <project groups="xpdev" remote="coding" name="drmingdrmer/ibiu" />
     <project groups="xpdev" remote="coding" name="drmingdrmer/xpkit" />
 
 
