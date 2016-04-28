@@ -155,7 +155,7 @@
     <project groups="star" remote="github" name="facebook/pfff" />
     <project groups="star" remote="github" name="facebook/scribe" />
     <project groups="star" remote="github" name="git-mirror/nginx" />
-    <project groups="star" remote="github" name="git/git" />
+    <!-- <project groups="star" remote="github" name="git/git" /> -->
     <project groups="star" remote="github" name="golang/go" />
     <project groups="star" remote="github" name="golang/groupcache" />
     <project groups="star" remote="github" name="harningt/luaevent" />
@@ -184,8 +184,8 @@
     <project groups="star" remote="bitbucket" name="tsg-/liberasurecode" />
 
     <project groups="star" remote="oschina" name="lins05/seafile" />
-    <project groups="star" remote="dpdk" name="dpdk" />
-    <project groups="star" remote="gnu" name="gcc" />
-    <project groups="star" remote="sourceware" name="glibc" />
+    <!-- <project groups="star" remote="dpdk" name="dpdk" /> -->
+    <!-- <project groups="star" remote="gnu" name="gcc" /> -->
+    <!-- <project groups="star" remote="sourceware" name="glibc" /> -->
 
 </manifest>
