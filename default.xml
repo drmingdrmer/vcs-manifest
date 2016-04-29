@@ -81,7 +81,11 @@
 
 
     <project groups="s2" remote="coding" name="drmingdrmer/sinastorage-client" />
-    <project groups="s2" remote="coding" name="drmingdrmer/s2-bs-init" />
+    <project groups="s2" remote="coding" name="drmingdrmer/s2" />
+    <project groups="s2" remote="coding" name="drmingdrmer/s2-bs-conf" />
+    <project groups="s2" remote="coding" name="drmingdrmer/s2-etcd" />
+    <project groups="s2" remote="coding" name="drmingdrmer/s2-init" />
+    <project groups="s2" remote="coding" name="drmingdrmer/s2-zk" />
 
     <project groups="xpdev" remote="coding" name="drmingdrmer/homefolder" />
     <project groups="xpdev" remote="coding" name="drmingdrmer/xpkit" revision="coding-pages" />
@@ -90,8 +94,8 @@
     <project groups="s2" remote="bitbucket" name="drmingdrmer/sinastorage" />
     <project groups="s2" remote="bitbucket" name="drmingdrmer/conf4s2" />
     <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-bs-conf" />
-    <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-bs-etcd" />
-    <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-bs-zk" />
+    <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-etcd" />
+    <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-zk" />
 
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/cacheservice" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/circularbuf" />
