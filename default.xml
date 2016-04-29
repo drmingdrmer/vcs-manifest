@@ -93,9 +93,9 @@
 
     <project groups="s2" remote="bitbucket" name="drmingdrmer/sinastorage" />
     <project groups="s2" remote="bitbucket" name="drmingdrmer/conf4s2" />
-    <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-bs-conf" />
-    <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-etcd" />
-    <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-zk" />
+    <!-- <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-bs-conf" /> -->
+    <!-- <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-etcd" /> -->
+    <!-- <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-zk" /> -->
 
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/cacheservice" />
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/circularbuf" />
