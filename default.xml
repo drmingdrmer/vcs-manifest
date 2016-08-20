@@ -69,6 +69,7 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/tankdb" />
     <project groups="xpdev" remote="github" name="drmingdrmer/vim-fuzzyjumpto" />
     <project groups="xpdev" remote="github" name="drmingdrmer/vim-syntax-markdown" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vim-indent-lua" />
     <project groups="xpdev" remote="github" name="drmingdrmer/vim-tiny-unittest" />
     <project groups="xpdev" remote="github" name="drmingdrmer/vim-xpsnip" />
     <project groups="xpdev" remote="github" name="drmingdrmer/vweb" />
