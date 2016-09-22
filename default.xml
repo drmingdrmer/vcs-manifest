@@ -179,6 +179,7 @@
     <project groups="star" remote="github" name="rswier/c4" />
     <project groups="star" remote="github" name="shadowsocks/shadowsocks" />
     <project groups="star" remote="github" name="shower/shower" />
+    <project groups="star" remote="github" name="scrapy/scrapy" />
     <project groups="star" remote="github" name="xiaoxuanzi/multi-Pings" />
 
     <project groups="star" remote="bitbucket" name="tsg-/liberasurecode" />
