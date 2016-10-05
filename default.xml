@@ -150,6 +150,7 @@
     <project groups="star" remote="github" name="concurrencykit/ck" />
     <project groups="star" remote="github" name="coreos/etcd" />
     <project groups="star" remote="github" name="dropbox/godropbox" />
+    <project groups="star" remote="github" name="esrlabs/git-repo" />
     <project groups="star" remote="github" name="facebook/folly" />
     <project groups="star" remote="github" name="facebook/libphenom" />
     <project groups="star" remote="github" name="facebook/mcrouter" />
