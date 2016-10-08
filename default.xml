@@ -57,7 +57,6 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-paxos" revision="dev" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-core" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-http" />
-    <project groups="xpdev" remote="github" name="drmingdrmer/myee-share" />
     <project groups="xpdev" remote="github" name="drmingdrmer/next-number" revision="gh-pages" />
     <project groups="xpdev" remote="github" name="drmingdrmer/nginx-lua-merge" />
     <project groups="xpdev" remote="github" name="drmingdrmer/ngx_http_fsutil_module" />
