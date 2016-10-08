@@ -43,6 +43,7 @@
 
     <project groups="xpdev" remote="github" name="drmingdrmer/2048bot" revision="gh-pages" />
     <project groups="xpdev" remote="github" name="drmingdrmer/books" revision="gh-pages" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/cheatsheet" />
     <project groups="xpdev" remote="github" name="drmingdrmer/devops" />
     <project groups="xpdev" remote="github" name="drmingdrmer/dnsmasq-conf-mng" />
     <project groups="xpdev" remote="github" name="drmingdrmer/dreamcss" />
