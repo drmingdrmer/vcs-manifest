@@ -142,6 +142,7 @@
     <project groups="star" remote="github" name="astaxie/gopkg" />
     <project groups="star" remote="github" name="basho/bitcask" />
     <project groups="star" remote="github" name="boto/boto" />
+    <project groups="star" remote="github" name="boto/boto3" />
     <project groups="star" remote="github" name="celery/celery" />
     <project groups="star" remote="github" name="ceph/ceph" />
     <project groups="star" remote="github" name="chaoslawful/etcproxy" />
