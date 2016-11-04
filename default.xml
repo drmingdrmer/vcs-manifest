@@ -79,7 +79,6 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/xphplib" />
     <project groups="xpdev" remote="github" name="drmingdrmer/xpjs" />
     <project groups="xpdev" remote="github" name="drmingdrmer/xpsjs" />
-    <project groups="xpdev" remote="github" name="drmingdrmer/xpsnippet" />
     <project groups="xpdev" remote="github" name="drmingdrmer/xptemplate" revision="mix" />
     <project groups="xpdev" remote="github" name="drmingdrmer/yamltocss" />
 
