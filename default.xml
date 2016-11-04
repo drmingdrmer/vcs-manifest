@@ -169,6 +169,7 @@
     <project groups="star" remote="github" name="jwiegley/git-scripts" />
     <project groups="star" remote="github" name="lebinh/ngxtop" />
     <project groups="star" remote="github" name="libuv/libuv" />
+    <project groups="star" remote="github" name="lsegal/my_toy_compiler" />
     <project groups="star" remote="github" name="memcached/memcached" />
     <project groups="star" remote="github" name="minio/minio" />
     <project groups="star" remote="github" name="nginx/nginx" />
