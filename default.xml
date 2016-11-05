@@ -50,6 +50,7 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/drmingdrmer.github.io" />
     <project groups="xpdev" remote="github" name="drmingdrmer/foolang" />
     <project groups="xpdev" remote="github" name="drmingdrmer/intel-isa" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/jobq" />
     <project groups="xpdev" remote="github" name="drmingdrmer/libbinlog" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lrc-erasure-code" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-cjson" />
