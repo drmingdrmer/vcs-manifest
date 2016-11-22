@@ -17,11 +17,6 @@
         />
 
     <remote
-        name="coding"
-        fetch="ssh://git@git.coding.net/"
-        />
-
-    <remote
         name="oschina"
         fetch="http://git.oschina.net/"
         />
@@ -87,12 +82,6 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/yamltocss" />
 
     <project groups="xpdev" remote="github" name="JakSprats/datanet" />
-
-    <project groups="s2" remote="coding" name="drmingdrmer/sinastorage-client" />
-
-    <project groups="xpdev" remote="coding" name="drmingdrmer/homefolder" />
-    <project groups="xpdev" remote="coding" name="drmingdrmer/xpkit" revision="coding-pages" />
-
 
     <project groups="s2" remote="bitbucket" name="drmingdrmer/sinastorage" />
     <project groups="s2" remote="bitbucket" name="drmingdrmer/conf4s2" />
