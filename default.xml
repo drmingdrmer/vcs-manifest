@@ -46,7 +46,6 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/foolang" />
     <project groups="xpdev" remote="github" name="drmingdrmer/git-subtree" />
     <project groups="xpdev" remote="github" name="drmingdrmer/intel-isa" />
-    <project groups="xpdev" remote="github" name="drmingdrmer/jobq" />
     <project groups="xpdev" remote="github" name="drmingdrmer/libbinlog" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lrc-erasure-code" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-cjson" />
@@ -55,7 +54,6 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-core" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-http" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-upload" />
-    <project groups="xpdev" remote="github" name="drmingdrmer/mysqlconnpool" />
     <project groups="xpdev" remote="github" name="drmingdrmer/next-number" revision="gh-pages" />
     <project groups="xpdev" remote="github" name="drmingdrmer/nginx-lua-merge" />
     <project groups="xpdev" remote="github" name="drmingdrmer/ngx_http_fsutil_module" />
@@ -80,6 +78,9 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/xpsjs" />
     <project groups="xpdev" remote="github" name="drmingdrmer/xptemplate" revision="mix" />
     <project groups="xpdev" remote="github" name="drmingdrmer/yamltocss" />
+
+    <project groups="xpdev" remote="github" name="baishancloud/jobq" />
+    <project groups="xpdev" remote="github" name="baishancloud/mysqlconnpool" />
 
     <project groups="xpdev" remote="github" name="JakSprats/datanet" />
 
