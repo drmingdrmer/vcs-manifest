@@ -100,15 +100,19 @@
     <project groups="xpdev" remote="bitbucket" name="drmingdrmer/etcd4s2" />
 
 
-    <project groups="star c" remote="github" name="Snaipe/Criterion" />
-    <project groups="star c" remote="github" name="Snaipe/libcsptr" />
-    <project groups="star lua" remote="github" name="luaposix/luaposix" />
-    <project groups="star lua" remote="github" name="mirven/underscore.lua" />
+    <project groups="star" remote="github" name="Snaipe/Criterion" />
+    <project groups="star" remote="github" name="Snaipe/libcsptr" />
+    <project groups="star" remote="github" name="luaposix/luaposix" />
+    <project groups="star" remote="github" name="mirven/underscore.lua" />
+
     <project groups="star" remote="github" path="_openresty/drizzle-nginx-module" name="chaoslawful/drizzle-nginx-module" />
     <project groups="star" remote="github" path="_openresty/nginx-lua-stuff" name="mindreframer/nginx-lua-stuff" />
+
     <project groups="star" remote="github" path="_queue/resque.resque" name="resque/resque" />
     <project groups="star" remote="github" path="_queue/rq.nvie" name="nvie/rq" />
+
     <project groups="star" remote="github" path="_redis/redigo" name="garyburd/redigo" />
+
     <project groups="star" remote="github" path="_web/DeerResume.geekcompany" name="geekcompany/DeerResume" />
     <project groups="star" remote="github" path="_web/Font-Awesome.FortAwesome" name="FortAwesome/Font-Awesome" />
     <project groups="star" remote="github" path="_web/Lettering.js" name="davatron5000/Lettering.js" />
@@ -125,6 +129,7 @@
     <project groups="star" remote="github" path="_web/jquery" name="jquery/jquery" />
     <project groups="star" remote="github" path="_web/jquery-tmpl" name="jquery/jquery-tmpl" />
     <project groups="star" remote="github" path="_web/react.facebook" name="facebook/react" />
+
     <project groups="star" remote="github" name="1000ch/grd" revision="gh-pages" />
     <project groups="star" remote="github" name="GNOME/glib" />
     <project groups="star" remote="github" name="MarkTseng/libev" />
@@ -155,7 +160,6 @@
     <project groups="star" remote="github" name="facebook/pfff" />
     <project groups="star" remote="github" name="facebook/scribe" />
     <project groups="star" remote="github" name="git-mirror/nginx" />
-    <!-- <project groups="star" remote="github" name="git/git" /> -->
     <project groups="star" remote="github" name="golang/go" />
     <project groups="star" remote="github" name="golang/groupcache" />
     <project groups="star" remote="github" name="harningt/luaevent" />
