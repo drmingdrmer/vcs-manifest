@@ -79,10 +79,6 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/xptemplate" revision="mix" />
     <project groups="xpdev" remote="github" name="drmingdrmer/yamltocss" />
 
-    <project groups="xpdev" remote="github" name="baishancloud/dkit" />
-    <project groups="xpdev" remote="github" name="baishancloud/jobq" />
-    <project groups="xpdev" remote="github" name="baishancloud/mysqlconnpool" />
-
     <project groups="xpdev" remote="github" name="JakSprats/datanet" />
 
     <project groups="s2" remote="bitbucket" name="drmingdrmer/sinastorage" />
