@@ -47,7 +47,6 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/git-subtree" />
     <project groups="xpdev" remote="github" name="drmingdrmer/intel-isa" />
     <project groups="xpdev" remote="github" name="drmingdrmer/libbinlog" />
-    <project groups="xpdev" remote="github" name="drmingdrmer/lrc-erasure-code" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-cjson" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-consistent-hash-module" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-paxos" revision="dev" />
