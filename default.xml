@@ -131,6 +131,7 @@
     <project groups="star" remote="github" name="MarkTseng/libev" />
     <project groups="star" remote="github" name="Tokutek/ft-index" />
     <project groups="star" remote="github" name="ansible/ansible-examples" />
+    <project groups="star" remote="github" name="ansible/ansible" />
     <project groups="star" remote="github" name="antirez/redis" revision="unstable" />
     <project groups="star" remote="github" name="astaxie/build-web-application-with-golang" />
     <project groups="star" remote="github" name="astaxie/gopkg" />
