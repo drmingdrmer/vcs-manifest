@@ -109,21 +109,21 @@
     <project groups="star" remote="github" path="_redis/redigo" name="garyburd/redigo" />
 
     <project groups="star" remote="github" path="_web/DeerResume.geekcompany" name="geekcompany/DeerResume" />
-    <project groups="star" remote="github" path="_web/Font-Awesome.FortAwesome" name="FortAwesome/Font-Awesome" />
-    <project groups="star" remote="github" path="_web/Lettering.js" name="davatron5000/Lettering.js" />
-    <project groups="star" remote="github" path="_web/MathJax" name="mathjax/MathJax" />
-    <project groups="star" remote="github" path="_web/_css/stylus.stylus" name="stylus/stylus" />
-    <project groups="star" remote="github" path="_web/_md/markdown-js.evilstreak" name="evilstreak/markdown-js" />
-    <project groups="star" remote="github" path="_web/_md/marked" name="chjj/marked" />
-    <project groups="star" remote="github" path="_web/_md/showdown.coreyti" name="coreyti/showdown" />
-    <project groups="star" remote="github" path="_web/_notify/humane-js.wavded" name="wavded/humane-js" />
-    <project groups="star" remote="github" path="_web/_notify/noty.needim" name="needim/noty" />
-    <project groups="star" remote="github" path="_web/_notify/pnotify.sciactive" name="sciactive/pnotify" />
-    <project groups="star" remote="github" path="_web/backbone" name="jashkenas/backbone" />
-    <project groups="star" remote="github" path="_web/bootstrap" name="twbs/bootstrap" />
-    <project groups="star" remote="github" path="_web/jquery" name="jquery/jquery" />
-    <project groups="star" remote="github" path="_web/jquery-tmpl" name="jquery/jquery-tmpl" />
-    <project groups="star" remote="github" path="_web/react.facebook" name="facebook/react" />
+    <!-- <project groups="star" remote="github" path="_web/Font-Awesome.FortAwesome" name="FortAwesome/Font-Awesome" /> -->
+    <!-- <project groups="star" remote="github" path="_web/Lettering.js" name="davatron5000/Lettering.js" /> -->
+    <!-- <project groups="star" remote="github" path="_web/MathJax" name="mathjax/MathJax" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_css/stylus.stylus" name="stylus/stylus" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_md/markdown-js.evilstreak" name="evilstreak/markdown-js" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_md/marked" name="chjj/marked" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_md/showdown.coreyti" name="coreyti/showdown" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_notify/humane-js.wavded" name="wavded/humane-js" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_notify/noty.needim" name="needim/noty" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_notify/pnotify.sciactive" name="sciactive/pnotify" /> -->
+    <!-- <project groups="star" remote="github" path="_web/backbone" name="jashkenas/backbone" /> -->
+    <!-- <project groups="star" remote="github" path="_web/bootstrap" name="twbs/bootstrap" /> -->
+    <!-- <project groups="star" remote="github" path="_web/jquery" name="jquery/jquery" /> -->
+    <!-- <project groups="star" remote="github" path="_web/jquery-tmpl" name="jquery/jquery-tmpl" /> -->
+    <!-- <project groups="star" remote="github" path="_web/react.facebook" name="facebook/react" /> -->
 
     <project groups="star" remote="github" name="1000ch/grd" revision="gh-pages" />
     <project groups="star" remote="github" name="GNOME/glib" />
@@ -186,6 +186,7 @@
     <project groups="star" remote="bitbucket" name="tsg-/liberasurecode" />
 
     <project groups="star" remote="oschina" name="lins05/seafile" />
+
     <!-- <project groups="star" remote="dpdk" name="dpdk" /> -->
     <!-- <project groups="star" remote="gnu" name="gcc" /> -->
     <!-- <project groups="star" remote="sourceware" name="glibc" /> -->
