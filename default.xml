@@ -106,7 +106,7 @@
     <project groups="star" remote="github" path="_queue/resque.resque" name="resque/resque" />
     <project groups="star" remote="github" path="_queue/rq.nvie" name="nvie/rq" />
 
-    <project groups="star" remote="github" path="_redis/redigo" name="garyburd/redigo" />
+    <!-- <project groups="star" remote="github" path="_redis/redigo" name="garyburd/redigo" /> -->
 
     <project groups="star" remote="github" path="_web/DeerResume.geekcompany" name="geekcompany/DeerResume" />
     <!-- <project groups="star" remote="github" path="_web/Font-Awesome.FortAwesome" name="FortAwesome/Font-Awesome" /> -->
@@ -131,8 +131,8 @@
     <project groups="star" remote="github" name="Tokutek/ft-index" />
     <project groups="star" remote="github" name="ansible/ansible-examples" />
     <project groups="star" remote="github" name="antirez/redis" revision="unstable" />
-    <project groups="star" remote="github" name="astaxie/build-web-application-with-golang" />
-    <project groups="star" remote="github" name="astaxie/gopkg" />
+    <!-- <project groups="star" remote="github" name="astaxie/build-web-application-with-golang" /> -->
+    <!-- <project groups="star" remote="github" name="astaxie/gopkg" /> -->
     <project groups="star" remote="github" name="basho/bitcask" />
     <project groups="star" remote="github" name="boto/boto" />
     <project groups="star" remote="github" name="boto/boto3" />
@@ -147,7 +147,7 @@
     <project groups="star" remote="github" name="cockroachdb/cockroach" />
     <project groups="star" remote="github" name="concurrencykit/ck" />
     <project groups="star" remote="github" name="coreos/etcd" />
-    <project groups="star" remote="github" name="dropbox/godropbox" />
+    <!-- <project groups="star" remote="github" name="dropbox/godropbox" /> -->
     <project groups="star" remote="github" name="esrlabs/git-repo" />
     <project groups="star" remote="github" name="facebook/folly" />
     <project groups="star" remote="github" name="facebook/libphenom" />
@@ -155,8 +155,8 @@
     <project groups="star" remote="github" name="facebook/pfff" />
     <project groups="star" remote="github" name="facebook/scribe" />
     <project groups="star" remote="github" name="git-mirror/nginx" />
-    <project groups="star" remote="github" name="golang/go" />
-    <project groups="star" remote="github" name="golang/groupcache" />
+    <!-- <project groups="star" remote="github" name="golang/go" /> -->
+    <!-- <project groups="star" remote="github" name="golang/groupcache" /> -->
     <project groups="star" remote="github" name="harningt/luaevent" />
     <project groups="star" remote="github" name="jwiegley/git-scripts" />
     <project groups="star" remote="github" name="lebinh/ngxtop" />
