@@ -48,7 +48,7 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/intel-isa" />
     <project groups="xpdev" remote="github" name="drmingdrmer/libbinlog" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-cjson" />
-    <project groups="xpdev" remote="github" name="drmingdrmer/lua-paxos" revision="dev" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/lua-paxos"/>
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-core" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-http" />
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-upload" />
