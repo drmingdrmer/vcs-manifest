@@ -58,7 +58,6 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/peervpn" />
     <project groups="xpdev" remote="github" name="drmingdrmer/pillowhelper" />
     <project groups="xpdev" remote="github" name="drmingdrmer/pypaxos" />
-    <project groups="xpdev" remote="github" name="drmingdrmer/sae-mgr" />
     <project groups="xpdev" remote="github" name="drmingdrmer/shbookmark" />
     <project groups="xpdev" remote="github" name="drmingdrmer/tankdb" />
     <project groups="xpdev" remote="github" name="drmingdrmer/vcs-manifest" />
