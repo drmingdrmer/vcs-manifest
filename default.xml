@@ -95,6 +95,7 @@
     <project groups="star" remote="github" name="Snaipe/Criterion" />
     <project groups="star" remote="github" name="Snaipe/libcsptr" />
     <project groups="star" remote="github" name="luaposix/luaposix" />
+    <project groups="star" remote="github" name="lua/lua" />
     <project groups="star" remote="github" name="mirven/underscore.lua" />
 
     <project groups="star" remote="github" path="_openresty/drizzle-nginx-module" name="chaoslawful/drizzle-nginx-module" />
