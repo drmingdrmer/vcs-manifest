@@ -24,7 +24,6 @@
     <project groups="hive" remote="bscbit" name="data/harpoon" />
     <project groups="hive" remote="bscbit" name="data/hive-angular" />
     <project groups="hive" remote="bscbit" name="data/hive-web" />
-    <project groups="hive" remote="bscbit" name="data/honeycomb" />
     <project groups="hive" remote="bscbit" name="data/lurker4j" />
     <project groups="hive" remote="bscbit" name="data/prism" />
     <project groups="hive" remote="bscbit" name="data/sqlparser" />
