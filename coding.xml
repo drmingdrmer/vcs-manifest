@@ -13,7 +13,6 @@
 
     <project groups="xp" remote="coding" name="baishancloud/docker-cloud"          />
     <project groups="xp" remote="coding" name="baishancloud/gitlab-init"           />
-    <project groups="xp" remote="coding" name="baishancloud/hive-web"              />
     <project groups="xp" remote="coding" name="baishancloud/imgx"                  />
     <project groups="xp" remote="coding" name="baishancloud/mysql-devops"          />
     <project groups="xp" remote="coding" name="baishancloud/s2"                    revision="release" />
