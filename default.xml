@@ -54,8 +54,6 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-upload" />
     <project groups="xpdev" remote="github" name="drmingdrmer/next-number" revision="gh-pages" />
     <project groups="xpdev" remote="github" name="drmingdrmer/nginx-lua-merge" />
-    <project groups="xpdev" remote="github" name="drmingdrmer/ngx_http_fsutil_module" />
-    <project groups="xpdev" remote="github" name="drmingdrmer/ngx_http_shmdict_module" />
     <project groups="xpdev" remote="github" name="drmingdrmer/peervpn" />
     <project groups="xpdev" remote="github" name="drmingdrmer/powerstation_sae" />
     <project groups="xpdev" remote="github" name="drmingdrmer/pypaxos" />
