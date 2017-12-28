@@ -26,6 +26,7 @@
     <project groups="xpdev" remote="github" name="baishancloud/lua-std-ffi" />
     <project groups="xpdev" remote="github" name="baishancloud/luajit2" />
     <project groups="xpdev" remote="github" name="baishancloud/mimetype" />
+    <project groups="xpdev" remote="github" name="baishancloud/mysql-devops" />
     <project groups="xpdev" remote="github" name="baishancloud/openresty" />
     <project groups="xpdev" remote="github" name="baishancloud/pykit" />
     <project groups="xpdev" remote="github" name="baishancloud/shlib" />
