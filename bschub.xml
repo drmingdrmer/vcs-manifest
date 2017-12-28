@@ -14,6 +14,7 @@
     <project groups="xpdev" remote="github" name="baishancloud/EzSVG" />
     <project groups="xpdev" remote="github" name="baishancloud/LuaJIT" />
     <project groups="xpdev" remote="github" name="baishancloud/LuaJIT-test-cleanup" />
+    <project groups="xpdev" remote="github" name="baishancloud/ansiblekit" />
     <project groups="xpdev" remote="github" name="baishancloud/awssign" />
     <project groups="xpdev" remote="github" name="baishancloud/baishancloud.github.io" />
     <project groups="xpdev" remote="github" name="baishancloud/lrc-erasure-code" />
