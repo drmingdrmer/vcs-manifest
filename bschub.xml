@@ -30,7 +30,6 @@
     <project groups="xpdev" remote="github" name="baishancloud/pykit" />
     <project groups="xpdev" remote="github" name="baishancloud/shlib" />
     <project groups="xpdev" remote="github" name="baishancloud/stopwatch" />
-    <project groups="xpdev" remote="github" name="baishancloud/tool" />
     <project groups="xpdev" remote="github" name="drmingdrmer/baishancloud.github.io" />
 
 </manifest>
