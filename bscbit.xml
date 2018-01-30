@@ -19,6 +19,7 @@
     <project groups="hive" remote="bscbit" name="data/chrome_ext" />
     <project groups="hive" remote="bscbit" name="data/core_api" />
     <project groups="hive" remote="bscbit" name="data/crystal" />
+    <project groups="hive" remote="bscbit" name="data/crystal_java" />
     <project groups="hive" remote="bscbit" name="data/devops" />
     <project groups="hive" remote="bscbit" name="data/framed" />
     <project groups="hive" remote="bscbit" name="data/harpoon" />
