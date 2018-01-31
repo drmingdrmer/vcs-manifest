@@ -166,6 +166,7 @@
     <project groups="star" remote="github" name="minio/minio" />
     <project groups="star" remote="github" name="nginx/nginx" />
     <project groups="star" remote="github" name="nginx/nginx-releases" />
+    <project groups="star" remote="github" name="nginx/unit" />
     <project groups="star" remote="github" name="openresty/lua-nginx-module" />
     <project groups="star" remote="github" name="openresty/stream-lua-nginx-module" />
     <project groups="star" remote="github" name="openresty/ngx_openresty" />
