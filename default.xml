@@ -43,6 +43,7 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/dnsmasq-conf-mng" />
     <project groups="xpdev" remote="github" name="drmingdrmer/dreamcss" />
     <project groups="xpdev" remote="github" name="drmingdrmer/drmingdrmer.github.io" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/eplot" />
     <project groups="xpdev" remote="github" name="drmingdrmer/foolang" />
     <project groups="xpdev" remote="github" name="drmingdrmer/git-subtree" />
     <project groups="xpdev" remote="github" name="drmingdrmer/homefolder.wiki" />
