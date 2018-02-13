@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <default
+        remote="github"
+        revision="master"
+        sync-j="1" />
+
+    <remote
+        name="github"
+        fetch="ssh://git@github.com/"
+        />
+
+    <remote
+        name="bitbucket"
+        fetch="ssh://git@bitbucket.org/"
+        />
+
+    <remote
+        name="oschina"
+        fetch="http://git.oschina.net/"
+        />
+
+    <remote
+        name="dpdk"
+        fetch="git://dpdk.org/"
+        />
+
+    <remote
+        name="gnu"
+        fetch="git://gcc.gnu.org/git/"
+        />
+
+    <remote
+        name="sourceware"
+        fetch="git://sourceware.org/git/"
+        />
+
+    <project groups="xpdev" remote="github" name="drmingdrmer/2048bot" revision="gh-pages" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/books" revision="gh-pages" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/cheatsheet" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/devops" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/dnsmasq-conf-mng" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/dreamcss" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/drmingdrmer.github.io" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/eplot" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/foolang" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/git-subtree" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/homefolder.wiki" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/intel-isa" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/libbinlog" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/lua-cjson" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-core" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-http" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/lua-resty-upload" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/next-number" revision="gh-pages" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/nginx-lua-merge" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/peervpn" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/powerstation_sae" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/pypaxos" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/shbookmark" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/tankdb" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vcs-manifest" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vim-fuzzyjumpto" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vim-syntax-markdown" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vim-indent-lua" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vim-tiny-unittest" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vim-xpsnip" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vim-uni" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/vweb" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/xpas" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/xphplib" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/xpjs" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/xpsjs" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/xptemplate" revision="mix" />
+    <project groups="xpdev" remote="github" name="drmingdrmer/yamltocss" />
+
+    <project groups="xpdev" remote="github" name="JakSprats/datanet" />
+
+    <project groups="s2" remote="bitbucket" name="drmingdrmer/sinastorage" />
+    <project groups="s2" remote="bitbucket" name="drmingdrmer/conf4s2" />
+    <!-- <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-bs-conf" /> -->
+    <!-- <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-etcd" /> -->
+    <!-- <project groups="s2" remote="bitbucket" name="drmingdrmer/s2-zk" /> -->
+
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/cacheservice" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/circularbuf" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/ibiu" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/journal" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/lua-struct-db" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/notfs" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/zk4s2" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/etcd4s2" />
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/s3plus" revision="d"/>
+    <project groups="xpdev" remote="bitbucket" name="drmingdrmer/s3plus-release-meituan" />
+
+
+    <project groups="star" remote="github" name="Snaipe/Criterion" />
+    <project groups="star" remote="github" name="Snaipe/libcsptr" />
+    <project groups="star" remote="github" name="luaposix/luaposix" />
+    <project groups="star" remote="github" name="lua/lua" />
+    <project groups="star" remote="github" name="mirven/underscore.lua" />
+
+    <project groups="star" remote="github" path="_openresty/drizzle-nginx-module" name="chaoslawful/drizzle-nginx-module" />
+    <project groups="star" remote="github" path="_openresty/nginx-lua-stuff" name="mindreframer/nginx-lua-stuff" />
+
+    <project groups="star" remote="github" path="_queue/resque.resque" name="resque/resque" />
+    <project groups="star" remote="github" path="_queue/rq.nvie" name="nvie/rq" />
+
+    <!-- <project groups="star" remote="github" path="_redis/redigo" name="garyburd/redigo" /> -->
+
+    <project groups="star" remote="github" path="_web/DeerResume.geekcompany" name="geekcompany/DeerResume" />
+    <!-- <project groups="star" remote="github" path="_web/Font-Awesome.FortAwesome" name="FortAwesome/Font-Awesome" /> -->
+    <!-- <project groups="star" remote="github" path="_web/Lettering.js" name="davatron5000/Lettering.js" /> -->
+    <!-- <project groups="star" remote="github" path="_web/MathJax" name="mathjax/MathJax" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_css/stylus.stylus" name="stylus/stylus" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_md/markdown-js.evilstreak" name="evilstreak/markdown-js" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_md/marked" name="chjj/marked" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_md/showdown.coreyti" name="coreyti/showdown" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_notify/humane-js.wavded" name="wavded/humane-js" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_notify/noty.needim" name="needim/noty" /> -->
+    <!-- <project groups="star" remote="github" path="_web/_notify/pnotify.sciactive" name="sciactive/pnotify" /> -->
+    <!-- <project groups="star" remote="github" path="_web/backbone" name="jashkenas/backbone" /> -->
+    <!-- <project groups="star" remote="github" path="_web/bootstrap" name="twbs/bootstrap" /> -->
+    <!-- <project groups="star" remote="github" path="_web/jquery" name="jquery/jquery" /> -->
+    <!-- <project groups="star" remote="github" path="_web/jquery-tmpl" name="jquery/jquery-tmpl" /> -->
+    <!-- <project groups="star" remote="github" path="_web/react.facebook" name="facebook/react" /> -->
+
+    <!-- <project groups="star" remote="github" name="1000ch/grd" revision="gh-pages" /> -->
+    <project groups="star" remote="github" name="GNOME/glib" />
+    <project groups="star" remote="github" name="MarkTseng/libev" />
+    <project groups="star" remote="github" name="Tokutek/ft-index" />
+    <!-- <project groups="star" remote="github" name="ansible/ansible-examples" /> -->
+    <project groups="star" remote="github" name="antirez/redis" revision="unstable" />
+    <!-- <project groups="star" remote="github" name="astaxie/build-web-application-with-golang" /> -->
+    <!-- <project groups="star" remote="github" name="astaxie/gopkg" /> -->
+    <project groups="star" remote="github" name="basho/bitcask" />
+    <project groups="star" remote="github" name="boto/boto" />
+    <project groups="star" remote="github" name="boto/boto3" />
+    <project groups="star" remote="github" name="boto/botocore" />
+    <project groups="star" remote="github" name="boto/s3transfer" />
+    <project groups="star" remote="github" name="celery/celery" />
+    <project groups="star" remote="github" name="ceph/ceph" />
+    <project groups="star" remote="github" name="chaoslawful/etcproxy" />
+    <project groups="star" remote="github" name="cloudwu/mptun" />
+    <project groups="star" remote="github" name="cloudwu/skynet" />
+    <project groups="star" remote="github" name="cocagne/paxos" />
+    <project groups="star" remote="github" name="cockroachdb/cockroach" />
+    <project groups="star" remote="github" name="concurrencykit/ck" />
+    <project groups="star" remote="github" name="coreos/etcd" />
+    <!-- <project groups="star" remote="github" name="dropbox/godropbox" /> -->
+    <project groups="star" remote="github" name="esrlabs/git-repo" />
+    <project groups="star" remote="github" name="facebook/folly" />
+    <project groups="star" remote="github" name="facebook/libphenom" />
+    <project groups="star" remote="github" name="facebook/mcrouter" />
+    <project groups="star" remote="github" name="facebook/pfff" />
+    <project groups="star" remote="github" name="facebook/scribe" />
+    <project groups="star" remote="github" name="git-mirror/nginx" />
+    <!-- <project groups="star" remote="github" name="golang/go" /> -->
+    <!-- <project groups="star" remote="github" name="golang/groupcache" /> -->
+    <project groups="star" remote="github" name="harningt/luaevent" />
+    <project groups="star" remote="github" name="jwiegley/git-scripts" />
+    <project groups="star" remote="github" name="lebinh/ngxtop" />
+    <project groups="star" remote="github" name="libuv/libuv" />
+    <project groups="star" remote="github" name="lsegal/my_toy_compiler" />
+    <project groups="star" remote="github" name="memcached/memcached" />
+    <project groups="star" remote="github" name="minio/minio" />
+    <project groups="star" remote="github" name="nginx/nginx" />
+    <project groups="star" remote="github" name="nginx/nginx-releases" />
+    <project groups="star" remote="github" name="nginx/unit" />
+    <project groups="star" remote="github" name="openresty/lua-nginx-module" />
+    <project groups="star" remote="github" name="openresty/stream-lua-nginx-module" />
+    <project groups="star" remote="github" name="openresty/ngx_openresty" />
+    <project groups="star" remote="github" name="openresty/test-nginx" />
+    <project groups="star" remote="github" name="papers-we-love/papers-we-love" />
+    <project groups="star" remote="github" name="pingcap/tidb" />
+    <project groups="star" remote="github" name="pintsized/lua-resty-http" />
+    <project groups="star" remote="github" name="qiniu/php-sdk" />
+    <project groups="star" remote="github" name="qyuhen/book" />
+    <project groups="star" remote="github" name="rethinkdb/rethinkdb" revision="next" />
+    <project groups="star" remote="github" name="rgrove/jsmin-php" />
+    <project groups="star" remote="github" name="rswier/c4" />
+    <project groups="star" remote="github" name="shadowsocks/shadowsocks" />
+    <project groups="star" remote="github" name="shower/shower" />
+    <project groups="star" remote="github" name="scrapy/scrapy" />
+    <project groups="star" remote="github" name="xiaoxuanzi/multi-Pings" />
+
+    <project groups="star" remote="bitbucket" name="tsg-/liberasurecode" />
+
+    <project groups="star" remote="oschina" name="lins05/seafile" />
+
+    <!-- <project groups="star" remote="dpdk" name="dpdk" /> -->
+    <!-- <project groups="star" remote="gnu" name="gcc" /> -->
+    <!-- <project groups="star" remote="sourceware" name="glibc" /> -->
+
+</manifest>
