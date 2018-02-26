@@ -21,7 +21,6 @@
     <project groups="hive" remote="bscbit" name="data/crystal" />
     <project groups="hive" remote="bscbit" name="data/crystal_java" />
     <project groups="hive" remote="bscbit" name="data/devops" />
-    <project groups="hive" remote="bscbit" name="data/framed" />
     <project groups="hive" remote="bscbit" name="data/harpoon" />
     <project groups="hive" remote="bscbit" name="data/hive-angular" />
     <project groups="hive" remote="bscbit" name="data/hive-web" />
