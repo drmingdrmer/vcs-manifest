@@ -34,7 +34,6 @@
     <project groups="xpdev" remote="github" name="bsc-s2/docker-cloud"                 />
     <project groups="xpdev" remote="github" name="bsc-s2/docker-cloud-init"            />
     <project groups="xpdev" remote="github" name="bsc-s2/docker-edge"                  />
-    <project groups="xpdev" remote="github" name="bsc-s2/gitlab-init"                  />
     <project groups="xpdev" remote="github" name="bsc-s2/hik-proxy"                    />
     <project groups="xpdev" remote="github" name="bsc-s2/imgx"                         />
     <project groups="xpdev" remote="github" name="bsc-s2/ops"                          />
