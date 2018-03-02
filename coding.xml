@@ -11,24 +11,6 @@
         fetch="ssh://git@git.coding.net/"
         />
 
-    <project groups="xp" remote="coding" name="baishancloud/docker-cloud"          />
-    <project groups="xp" remote="coding" name="baishancloud/docker-edge"           />
-    <project groups="xp" remote="coding" name="baishancloud/gitlab-init"           />
-    <project groups="xp" remote="coding" name="baishancloud/imgx"                  />
-    <project groups="xp" remote="coding" name="baishancloud/s2"                    revision="release" />
-    <project groups="xp" remote="coding" name="baishancloud/s2-bs-conf"            />
-    <project groups="xp" remote="coding" name="baishancloud/s2-doc-internal"       />
-    <project groups="xp" remote="coding" name="baishancloud/s2-doc-pub"            />
-    <project groups="xp" remote="coding" name="baishancloud/s2-etcd"               />
-    <project groups="xp" remote="coding" name="baishancloud/s2-init"               />
-    <project groups="xp" remote="coding" name="baishancloud/s2-kafka"              />
-    <project groups="xp" remote="coding" name="baishancloud/s2-offline-downloader" />
-    <project groups="xp" remote="coding" name="baishancloud/s2-qiniu"              />
-    <project groups="xp" remote="coding" name="baishancloud/s2-statistics"         />
-    <project groups="xp" remote="coding" name="baishancloud/s2-zk"                 />
-    <project groups="xp" remote="coding" name="baishancloud/sdk-test"              />
-    <project groups="xp" remote="coding" name="baishancloud/storage-dashboard"     />
-    <project groups="xp" remote="coding" name="baishancloud/storage-dashboard-vue" />
     <project groups="xp" remote="coding" name="drmingdrmer/homefolder"             />
     <project groups="xp" remote="coding" name="drmingdrmer/ibiu"                   />
     <project groups="xp" remote="coding" name="drmingdrmer/inv-xp2"                />
