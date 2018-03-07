@@ -17,6 +17,8 @@
     <project groups="xp" remote="coding" name="drmingdrmer/sinastorage-client"     />
     <project groups="xp" remote="coding" name="drmingdrmer/web-scrapy"             />
     <project groups="xp" remote="coding" name="drmingdrmer/writing"                />
-    <project groups="xp" remote="coding" name="drmingdrmer/xpkit"                  revision="coding-pages" />
+    <project remote="coding" path="aa/">
+        <project groups="xp" remote="coding" name="drmingdrmer/xpkit"                  revision="coding-pages" />
+    </project>
 
 </manifest>
