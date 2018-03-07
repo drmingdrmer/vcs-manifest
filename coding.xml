@@ -14,7 +14,6 @@
     <project groups="xp" remote="coding" name="drmingdrmer/homefolder"             />
     <project groups="xp" remote="coding" name="drmingdrmer/ibiu"                   />
     <project groups="xp" remote="coding" name="drmingdrmer/inv-xp2"                />
-    <project groups="xp" remote="coding" name="drmingdrmer/ops"                    />
     <project groups="xp" remote="coding" name="drmingdrmer/sinastorage-client"     />
     <project groups="xp" remote="coding" name="drmingdrmer/web-scrapy"             />
     <project groups="xp" remote="coding" name="drmingdrmer/writing"                />
