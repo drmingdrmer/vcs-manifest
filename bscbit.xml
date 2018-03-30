@@ -27,5 +27,6 @@
     <project groups="hive" remote="bscbit" name="data/lurker4j"     />
     <project groups="hive" remote="bscbit" name="data/prism"        />
     <project groups="hive" remote="bscbit" name="data/sqlparser"    />
+    <project groups="dns"  remote="bscbit" name="dns/sans"          />
 
 </manifest>
