@@ -11,22 +11,32 @@
         fetch="ssh://git@jr.baishancloud.com:7999/"
         />
 
-    <project groups="hive" remote="bscbit" name="data/apihandler"   />
-    <project groups="hive" remote="bscbit" name="data/apiplatform"  />
-    <project groups="hive" remote="bscbit" name="data/apiproxy"     />
-    <project groups="hive" remote="bscbit" name="data/apithirdpart" />
-    <project groups="hive" remote="bscbit" name="data/beehive-ui"   />
-    <project groups="hive" remote="bscbit" name="data/chrome_ext"   />
-    <project groups="hive" remote="bscbit" name="data/core_api"     />
-    <project groups="hive" remote="bscbit" name="data/crystal"      />
-    <project groups="hive" remote="bscbit" name="data/crystal_java" />
-    <project groups="hive" remote="bscbit" name="data/devops"       />
-    <project groups="hive" remote="bscbit" name="data/harpoon"      />
-    <project groups="hive" remote="bscbit" name="data/hive-angular" />
-    <project groups="hive" remote="bscbit" name="data/hive-web"     />
-    <project groups="hive" remote="bscbit" name="data/lurker4j"     />
-    <project groups="hive" remote="bscbit" name="data/prism"        />
-    <project groups="hive" remote="bscbit" name="data/sqlparser"    />
-    <project groups="dns"  remote="bscbit" name="dns/sans"          />
+    <project groups="hive" remote="bscbit" name="data/apihandler"        />
+    <project groups="hive" remote="bscbit" name="data/apiplatform"       />
+    <project groups="hive" remote="bscbit" name="data/apiproxy"          />
+    <project groups="hive" remote="bscbit" name="data/apithirdpart"      />
+    <project groups="hive" remote="bscbit" name="data/beehive-ui"        />
+    <project groups="hive" remote="bscbit" name="data/chrome_ext"        />
+    <project groups="hive" remote="bscbit" name="data/core_api"          />
+    <project groups="hive" remote="bscbit" name="data/crystal"           />
+    <project groups="hive" remote="bscbit" name="data/Crystal-java"      />
+    <project groups="hive" remote="bscbit" name="data/crystal_java"      />
+    <project groups="hive" remote="bscbit" name="data/devops"            />
+    <project groups="hive" remote="bscbit" name="data/framed"            />
+    <project groups="hive" remote="bscbit" name="data/harpoon"           />
+    <project groups="hive" remote="bscbit" name="data/hive-angular"      />
+    <project groups="hive" remote="bscbit" name="data/hive-web"          />
+    <project groups="hive" remote="bscbit" name="data/lurker4j"          />
+    <project groups="hive" remote="bscbit" name="data/nifi"              />
+    <project groups="hive" remote="bscbit" name="data/orchsym-studio"    />
+    <project groups="hive" remote="bscbit" name="data/prism"             />
+    <project groups="hive" remote="bscbit" name="data/runtime-locator"   />
+    <project groups="hive" remote="bscbit" name="data/sqlparser"         />
+    <project groups="hive" remote="bscbit" name="data/studio-se-master"  />
+    <project groups="hive" remote="bscbit" name="data/tcommon-studio-se" />
+    <project groups="hive" remote="bscbit" name="data/tdi-studio-se"     />
+    <project groups="hive" remote="bscbit" name="data/tesb-rt-se"        />
+    <project groups="hive" remote="bscbit" name="data/tesb-studio-se"    />
+    <project groups="dns"  remote="bscbit" name="dns/sans"               />
 
 </manifest>
