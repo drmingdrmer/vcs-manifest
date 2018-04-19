@@ -34,7 +34,6 @@
     <project groups="xpdev" remote="github" name="bsc-s2/ansiblekit"                                      />
     <project groups="xpdev" remote="github" name="bsc-s2/docker-cloud"                                    />
     <project groups="xpdev" remote="github" name="bsc-s2/docker-cloud-init"                               />
-    <project groups="xpdev" remote="github" name="bsc-s2/docker-edge"                                     />
     <project groups="xpdev" remote="github" name="bsc-s2/ec"                                              />
     <project groups="xpdev" remote="github" name="bsc-s2/imgx"                                            />
     <project groups="xpdev" remote="github" name="bsc-s2/ops"                                             />
