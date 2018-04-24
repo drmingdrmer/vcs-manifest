@@ -123,6 +123,7 @@
     <project remote="github"    name="facebook/scribe"                    />
     <project remote="github"    name="git-mirror/nginx"                   />
     <project remote="github"    name="harningt/luaevent"                  />
+    <project remote="github"    name="google/btree"                       />
     <project remote="github"    name="jwiegley/git-scripts"               />
     <project remote="github"    name="lebinh/ngxtop"                      />
     <project remote="github"    name="libuv/libuv"                        />
