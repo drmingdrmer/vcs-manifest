@@ -32,7 +32,6 @@
     <project groups="hive" remote="bscbit" name="data/prism"             />
     <project groups="hive" remote="bscbit" name="data/runtime-locator"   />
     <project groups="hive" remote="bscbit" name="data/sqlparser"         />
-    <project groups="hive" remote="bscbit" name="data/tcommon-studio-se" />
     <project groups="dns"  remote="bscbit" name="dns/sans"               />
     <project groups="dns"  remote="bscbit" name="nginp/lua-nginx-module" />
 
