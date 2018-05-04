@@ -38,5 +38,6 @@
     <project groups="hive" remote="bscbit" name="data/tesb-rt-se"        />
     <project groups="hive" remote="bscbit" name="data/tesb-studio-se"    />
     <project groups="dns"  remote="bscbit" name="dns/sans"               />
+    <project groups="dns"  remote="bscbit" name="nginp/lua-nginx-module" />
 
 </manifest>
