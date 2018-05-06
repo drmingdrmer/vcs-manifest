@@ -95,6 +95,7 @@
     <project remote="github"    name="Tokutek/ft-index"                   />
     <project remote="github"    name="antirez/redis"                      revision="unstable"                     />
     <project remote="github"    name="basho/bitcask"                      />
+    <project remote="github"    name="python-zk/kazoo"                    />
     <project remote="github"    name="boto/boto"                          />
     <project remote="github"    name="boto/boto3"                         />
     <project remote="github"    name="boto/botocore"                      />
