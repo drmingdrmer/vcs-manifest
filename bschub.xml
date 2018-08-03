@@ -52,7 +52,7 @@
     <project groups="xpdev" remote="github" name="bsc-s2/s2-zk"                                           />
     <project groups="xpdev" remote="github" name="bsc-s2/sdk-test"                                        />
     <project groups="xpdev" remote="github" name="bsc-s2/storage-dashboard-vue"                           />
-    <project groups="xpdev" remote="github" name="bsc-s2/whats-not-perfect"                               />
+    <project groups="xpdev" remote="github" name="bsc-s2/it-can-be-better"                                />
     <project groups="xpdev" remote="github" name="drmingdrmer/baishancloud.github.io"                     />
     <project groups="xpdev" remote="github" name="drmingdrmer/pykit"                                      />
 
