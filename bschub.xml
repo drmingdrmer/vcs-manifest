@@ -35,6 +35,7 @@
     <project groups="xpdev" remote="github" name="bsc-s2/docker-cloud"                                    />
     <project groups="xpdev" remote="github" name="bsc-s2/docker-cloud-init"                               />
     <project groups="xpdev" remote="github" name="bsc-s2/ec"                                              />
+    <project groups="xpdev" remote="github" name="bsc-s2/edge"                                            />
     <project groups="xpdev" remote="github" name="bsc-s2/imgx"                                            />
     <project groups="xpdev" remote="github" name="bsc-s2/ops"                                             />
     <project groups="xpdev" remote="github" name="bsc-s2/packages-need-centos7"                           />
