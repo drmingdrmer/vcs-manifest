@@ -14,7 +14,6 @@
     <project groups="xpdev" remote="github" name="baishancloud/EzSVG"                                     />
     <project groups="xpdev" remote="github" name="baishancloud/LuaJIT"                                    />
     <project groups="xpdev" remote="github" name="baishancloud/LuaJIT-test-cleanup"                       />
-    <project groups="xpdev" remote="github" name="baishancloud/ansiblekit"                                />
     <project groups="xpdev" remote="github" name="baishancloud/baishancloud.github.io"                    />
     <project groups="xpdev" remote="github" name="baishancloud/lrc-erasure-code"                          />
     <project groups="xpdev" remote="github" name="baishancloud/lua-acid"                                  />
@@ -24,10 +23,9 @@
     <project groups="xpdev" remote="github" name="baishancloud/lua-sharedtable"                           />
     <project groups="xpdev" remote="github" name="baishancloud/lua-std-ffi"                               />
     <project groups="xpdev" remote="github" name="baishancloud/luajit2"                                   />
-    <project groups="xpdev" remote="github" name="baishancloud/resource"                                  />
     <project groups="xpdev" remote="github" name="baishancloud/mysql-devops"                              />
     <project groups="xpdev" remote="github" name="baishancloud/openresty"                                 />
-    <project groups="xpdev" remote="github" name="baishancloud/pykit"                                     />
+    <project groups="xpdev" remote="github" name="baishancloud/resource"                                  />
     <project groups="xpdev" remote="github" name="baishancloud/shlib"                                     />
     <project groups="xpdev" remote="github" name="baishancloud/stopwatch"                                 />
     <project groups="xpdev" remote="github" name="bsc-s2/ansiblekit"                                      />
@@ -37,8 +35,10 @@
     <project groups="xpdev" remote="github" name="bsc-s2/ec"                                              />
     <project groups="xpdev" remote="github" name="bsc-s2/edge"                                            />
     <project groups="xpdev" remote="github" name="bsc-s2/imgx"                                            />
+    <project groups="xpdev" remote="github" name="bsc-s2/it-can-be-better"                                />
     <project groups="xpdev" remote="github" name="bsc-s2/ops"                                             />
     <project groups="xpdev" remote="github" name="bsc-s2/packages-need-centos7"                           />
+    <project groups="xpdev" remote="github" name="bsc-s2/pykit"                                           />
     <project groups="xpdev" remote="github" name="bsc-s2/s2"                           revision="release" />
     <project groups="xpdev" remote="github" name="bsc-s2/s2-bs-conf"                                      />
     <project groups="xpdev" remote="github" name="bsc-s2/s2-doc-internal"                                 />
@@ -53,7 +53,6 @@
     <project groups="xpdev" remote="github" name="bsc-s2/s2-zk"                                           />
     <project groups="xpdev" remote="github" name="bsc-s2/sdk-test"                                        />
     <project groups="xpdev" remote="github" name="bsc-s2/storage-dashboard-vue"                           />
-    <project groups="xpdev" remote="github" name="bsc-s2/it-can-be-better"                                />
     <project groups="xpdev" remote="github" name="drmingdrmer/baishancloud.github.io"                     />
     <project groups="xpdev" remote="github" name="drmingdrmer/pykit"                                      />
 
