@@ -11,7 +11,6 @@
         fetch="ssh://git@jr.baishancloud.com:7999/"
         />
 
-    <project groups="hive" remote="bscbit" name="data/apihandler"        />
     <project groups="hive" remote="bscbit" name="data/apiplatform"       />
     <project groups="hive" remote="bscbit" name="data/apiproxy"          />
     <project groups="hive" remote="bscbit" name="data/apithirdpart"      />
@@ -43,5 +42,6 @@
 
     <project groups="dns"  remote="bscbit" name="dns/sans"               />
     <project groups="dns"  remote="bscbit" name="nginp/lua-nginx-module" />
+    <project groups="hive" remote="bscbit" name="plut/predictor"         />
 
 </manifest>
