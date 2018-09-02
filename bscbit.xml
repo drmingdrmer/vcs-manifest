@@ -12,7 +12,6 @@
         />
 
     <project groups="hive" remote="bscbit" name="data/apiplatform"       />
-    <project groups="hive" remote="bscbit" name="data/apithirdpart"      />
     <project groups="hive" remote="bscbit" name="data/B2ANewDemo"        />
     <project groups="hive" remote="bscbit" name="data/beehive-ui"        />
     <project groups="hive" remote="bscbit" name="data/cedar"             />
