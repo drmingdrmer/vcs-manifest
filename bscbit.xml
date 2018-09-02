@@ -11,7 +11,6 @@
         fetch="ssh://git@jr.baishancloud.com:7999/"
         />
 
-    <project groups="hive" remote="bscbit" name="data/apiplatform"       />
     <project groups="hive" remote="bscbit" name="data/B2ANewDemo"        />
     <project groups="hive" remote="bscbit" name="data/beehive-ui"        />
     <project groups="hive" remote="bscbit" name="data/cedar"             />
