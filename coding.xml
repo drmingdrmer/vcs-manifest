@@ -17,5 +17,6 @@
     <project name="drmingdrmer/web-scrapy"                                     />
     <project name="drmingdrmer/writing"                                        />
     <project name="drmingdrmer/xpkit"                  revision="coding-pages" />
+    <!--add-->
 
 </manifest>
