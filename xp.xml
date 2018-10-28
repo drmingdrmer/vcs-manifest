@@ -154,7 +154,6 @@
     <project remote="github"    name="shower/shower"                      />
     <project remote="github"    name="xiaoxuanzi/multi-Pings"             />
     <project remote="oschina"   name="lins05/seafile"                     />
-    <project remote="github" name="Alluxio/alluxio" />
     <!--add-->
 
     <!--
