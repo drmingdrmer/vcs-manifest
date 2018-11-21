@@ -20,6 +20,7 @@
     <project groups="xpdev" remote="github" name="baishancloud/lrc-erasure-code"                          />
     <project groups="xpdev" remote="github" name="baishancloud/lua-acid"                                  />
     <project groups="xpdev" remote="github" name="baishancloud/lua-consistent-hash"                       />
+    <project groups="xpdev" remote="github" name="baishancloud/lua-pipe"                                  />
     <project groups="xpdev" remote="github" name="baishancloud/lua-resty-awsauth"                         />
     <project groups="xpdev" remote="github" name="baishancloud/lua-resty-s3-client"                       />
     <project groups="xpdev" remote="github" name="baishancloud/lua-sharedtable"                           />
