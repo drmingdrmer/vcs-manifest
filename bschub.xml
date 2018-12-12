@@ -56,6 +56,7 @@
     <project groups="xpdev" remote="github" name="bsc-s2/s2-statistics"                                   />
     <project groups="xpdev" remote="github" name="bsc-s2/s2-zk"                                           />
     <project groups="xpdev" remote="github" name="bsc-s2/sdk-test"                                        />
+    <project groups="xpdev" remote="github" name="bsc-s2/slimtrie"                                        />
     <project groups="xpdev" remote="github" name="bsc-s2/stickers"                                        />
     <project groups="xpdev" remote="github" name="bsc-s2/stopwatch"                                       />
     <project groups="xpdev" remote="github" name="bsc-s2/storage-dashboard-vue"                           />
