@@ -54,6 +54,7 @@
     <project remote="github"    name="drmingdrmer/lua-resty-upload"       />
     <project remote="github"    name="drmingdrmer/next-number"            revision="gh-pages"                     />
     <project remote="github"    name="drmingdrmer/nginx-lua-merge"        />
+    <project remote="github"    name="drmingdrmer/papers"                 />
     <project remote="github"    name="drmingdrmer/peervpn"                />
     <project remote="github"    name="drmingdrmer/powerstation_sae"       />
     <project remote="github"    name="drmingdrmer/pypaxos"                />
