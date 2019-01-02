@@ -69,6 +69,7 @@
     <project remote="github"    name="drmingdrmer/vim-uni"                />
     <project remote="github"    name="drmingdrmer/vim-xpsnip"             />
     <project remote="github"    name="drmingdrmer/vweb"                   />
+    <project remote="github"    name="drmingdrmer/web-scrapy"             />
     <project remote="github"    name="drmingdrmer/xpas"                   />
     <project remote="github"    name="drmingdrmer/journet"                />
     <project remote="github"    name="drmingdrmer/xphplib"                />
