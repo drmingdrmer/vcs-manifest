@@ -45,6 +45,7 @@
     <project remote="github"    name="drmingdrmer/eplot"                  />
     <project remote="github"    name="drmingdrmer/foolang"                />
     <project remote="github"    name="drmingdrmer/git-subtree"            />
+    <project remote="github"    name="drmingdrmer/md"                     />
     <project remote="github"    name="drmingdrmer/mistune"                />
     <project remote="github"    name="drmingdrmer/mistune-contrib"        />
     <project remote="github"    name="drmingdrmer/wiki"                   />
