@@ -142,6 +142,7 @@
     <project remote="github"    name="nginx/unit"                         />
     <project remote="github"    name="nvie/rq"                            path="_queue/rq.nvie"                   />
     <project remote="github"    name="openresty/lua-nginx-module"         />
+    <project remote="github"    name="openresty/lua-resty-core"           />
     <project remote="github"    name="openresty/ngx_openresty"            />
     <project remote="github"    name="openresty/stream-lua-nginx-module"  />
     <project remote="github"    name="openresty/test-nginx"               />
