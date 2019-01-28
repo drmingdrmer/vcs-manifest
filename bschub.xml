@@ -38,6 +38,7 @@
     <project groups="xpdev" remote="github" name="bsc-s2/docker-cloud-init"                               />
     <project groups="xpdev" remote="github" name="bsc-s2/ec"                                              />
     <project groups="xpdev" remote="github" name="bsc-s2/edge"                                            />
+    <project groups="xpdev" remote="github" name="bsc-s2/gh-config"                                       />
     <project groups="xpdev" remote="github" name="bsc-s2/gokit"                                           />
     <project groups="xpdev" remote="github" name="bsc-s2/imgx"                                            />
     <project groups="xpdev" remote="github" name="bsc-s2/it-can-be-better"                                />
