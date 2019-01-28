@@ -64,6 +64,7 @@
     <project groups="xpdev" remote="github" name="drmingdrmer/baishancloud.github.io"                     />
     <project groups="xpdev" remote="github" name="drmingdrmer/pykit"                                      />
     <project groups="xpdev" remote="github" name="openacid/openacid.github.io"                            />
+    <project groups="xpdev" remote="github" name="openacid/gh-config"                                     />
     <!--add-->
 
 </manifest>
