@@ -11,6 +11,6 @@
         fetch="ssh://git@github.com/"
         />
 
-    <project groups="xpdev" remote="github" name="openacid/slim"                                          />
-    <project groups="xpdev" remote="github" name="openacid/errors"                                        />
+    <project remote="github" name="openacid/slim"   path="github.com/openacid/slim"   />
+    <project remote="github" name="openacid/errors" path="github.com/openacid/errors" />
 </manifest>
