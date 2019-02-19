@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <default
+        remote="github"
+        revision="master"
+        sync-j="4" />
+
+    <remote
+        name="github"
+        fetch="ssh://git@github.com/"
+        />
+
+    <project groups="xpdev" remote="github" name="openacid/slim"                                          />
+    <project groups="xpdev" remote="github" name="openacid/errors"                                        />
+</manifest>
