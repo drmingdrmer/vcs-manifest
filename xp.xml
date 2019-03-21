@@ -69,6 +69,7 @@
     <project remote="github"    name="drmingdrmer/vim-syntax-markdown"    />
     <project remote="github"    name="drmingdrmer/vim-tabbar"             />
     <project remote="github"    name="drmingdrmer/vim-tiny-unittest"      />
+    <project remote="github"    name="drmingdrmer/vim-toggle-quickfix"    />
     <project remote="github"    name="drmingdrmer/vim-uni"                />
     <project remote="github"    name="drmingdrmer/vim-xpsnip"             />
     <project remote="github"    name="drmingdrmer/vweb"                   />
