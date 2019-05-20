@@ -12,6 +12,7 @@
         />
 
     <project remote="github" name="openacid/errors"      path="github.com/openacid/errors"      />
+    <project remote="github" name="openacid/low"         path="github.com/openacid/low"   />
     <project remote="github" name="openacid/slim"        path="github.com/openacid/slim"        />
     <project remote="github" name="openacid/tablewriter" path="github.com/openacid/tablewriter" />
     <project remote="github" name="openacid/unconvert"   path="github.com/openacid/unconvert"   />
