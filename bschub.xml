@@ -65,7 +65,6 @@
     <project remote="github" name="openacid/errors"                                        />
     <project remote="github" name="openacid/gh-config"                                     />
     <project remote="github" name="openacid/learn"                                         />
-    <project remote="github" name="openacid/learn.wiki"                                    />
     <project remote="github" name="openacid/openacid.github.io"                            />
     <project remote="github" name="openacid/slim"                                          />
     <project remote="github" name="openacid/unconvert"                                     />
