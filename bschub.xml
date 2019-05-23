@@ -15,8 +15,6 @@
     <project remote="github" name="baishancloud/LuaJIT"                                    />
     <project remote="github" name="baishancloud/LuaJIT-test-cleanup"                       />
     <project remote="github" name="baishancloud/baishancloud.github.io"                    />
-    <project remote="github" name="baishancloud/learn"                                     />
-    <project remote="github" name="baishancloud/learn.wiki"                                />
     <project remote="github" name="baishancloud/lrc-erasure-code"                          />
     <project remote="github" name="baishancloud/lua-acid"                                  />
     <project remote="github" name="baishancloud/lua-consistent-hash"                       />
@@ -66,6 +64,8 @@
     <project remote="github" name="drmingdrmer/pykit"                                      />
     <project remote="github" name="openacid/errors"                                        />
     <project remote="github" name="openacid/gh-config"                                     />
+    <project remote="github" name="openacid/learn"                                         />
+    <project remote="github" name="openacid/learn.wiki"                                    />
     <project remote="github" name="openacid/openacid.github.io"                            />
     <project remote="github" name="openacid/slim"                                          />
     <project remote="github" name="openacid/unconvert"                                     />
