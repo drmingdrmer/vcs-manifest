@@ -28,7 +28,6 @@
     <project remote="github" name="baishancloud/openresty"                                 />
     <project remote="github" name="baishancloud/resource"                                  />
     <project remote="github" name="baishancloud/shlib"                                     />
-    <project remote="github" name="baishancloud/stopwatch"                                 />
     <project remote="github" name="bsc-s2/account"                                         />
     <project remote="github" name="bsc-s2/ansiblekit"                                      />
     <project remote="github" name="bsc-s2/configcenter"                                    />
