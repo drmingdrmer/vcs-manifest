@@ -60,12 +60,9 @@
     <project remote="github" name="bsc-s2/storage-dashboard-vue"                           />
     <project remote="github" name="drmingdrmer/baishancloud.github.io"                     />
     <project remote="github" name="drmingdrmer/pykit"                                      />
-    <project remote="github" name="openacid/errors"                                        />
     <project remote="github" name="openacid/gh-config"                                     />
     <project remote="github" name="openacid/learn"                                         />
     <project remote="github" name="openacid/openacid.github.io"                            />
-    <project remote="github" name="openacid/slim"                                          />
-    <project remote="github" name="openacid/unconvert"                                     />
     <!--add-->
 
 </manifest>
