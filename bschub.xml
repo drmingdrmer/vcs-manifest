@@ -56,8 +56,6 @@
     <project remote="github" name="bsc-s2/s2-statistics"                                   />
     <project remote="github" name="bsc-s2/s2-zk"                                           />
     <project remote="github" name="bsc-s2/sdk-test"                                        />
-    <project remote="github" name="bsc-s2/slimtrie"                                        />
-    <project remote="github" name="bsc-s2/stickers"                                        />
     <project remote="github" name="bsc-s2/stopwatch"                                       />
     <project remote="github" name="bsc-s2/storage-dashboard-vue"                           />
     <project remote="github" name="drmingdrmer/baishancloud.github.io"                     />
