@@ -12,7 +12,7 @@
         />
 
     <project remote="github" name="openacid/errors"         path="github.com/openacid/errors"         />
-    <project remote="github" name="openacid/go-funk"        path="github.com/openacid/go-func"        />
+    <project remote="github" name="openacid/go-funk"        path="github.com/openacid/go-funk"        />
     <project remote="github" name="openacid/gobenchmark"    path="github.com/openacid/gobenchmark"    />
     <project remote="github" name="openacid/low"            path="github.com/openacid/low"            />
     <project remote="github" name="openacid/must"           path="github.com/openacid/must"           />
