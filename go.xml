@@ -19,5 +19,6 @@
     <project remote="github" name="openacid/slim"           path="github.com/openacid/slim"           />
     <project remote="github" name="openacid/slimcompatible" path="github.com/openacid/slimcompatible" />
     <project remote="github" name="openacid/tablewriter"    path="github.com/openacid/tablewriter"    />
+    <project remote="github" name="openacid/testkeys"       path="github.com/openacid/testkeys"      />
     <project remote="github" name="openacid/unconvert"      path="github.com/openacid/unconvert"      />
 </manifest>
