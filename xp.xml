@@ -95,7 +95,6 @@
     <project remote="bitbucket" name="drmingdrmer/s3plus-release-meituan" />
     <project remote="bitbucket" name="tsg-/liberasurecode"                />
     <project remote="github"    name="GNOME/glib"                         />
-    <project remote="github"    name="JakSprats/datanet"                  />
     <project remote="github"    name="MarkTseng/libev"                    />
     <project remote="github"    name="Snaipe/Criterion"                   />
     <project remote="github"    name="Snaipe/libcsptr"                    />
