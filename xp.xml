@@ -121,6 +121,7 @@
     <project remote="github"    name="facebook/libphenom"                 />
     <project remote="github"    name="facebook/mcrouter"                  />
     <project remote="github"    name="facebook/pfff"                      />
+    <project remote="github"    name="facebook/rocksdb"                   />
     <project remote="github"    name="facebook/scribe"                    />
     <project remote="github"    name="geekcompany/DeerResume"             path="_web/DeerResume.geekcompany"      />
     <project remote="github"    name="git-mirror/nginx"                   />
