@@ -106,6 +106,7 @@
     <project remote="github"    name="boto/boto3"                         />
     <project remote="github"    name="boto/botocore"                      />
     <project remote="github"    name="boto/s3transfer"                    />
+    <project remote="github"    name="brianfrankcooper/YCSB"              />
     <project remote="github"    name="celery/celery"                      />
     <project remote="github"    name="ceph/ceph"                          />
     <project remote="github"    name="chaoslawful/drizzle-nginx-module"   path="_openresty/drizzle-nginx-module"  />
