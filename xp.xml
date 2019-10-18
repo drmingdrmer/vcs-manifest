@@ -61,6 +61,7 @@
     <project remote="github"    name="drmingdrmer/peervpn"                />
     <project remote="github"    name="drmingdrmer/powerstation_sae"       />
     <project remote="github"    name="drmingdrmer/pypaxos"                />
+    <project remote="github"    name="drmingdrmer/sec"                    />
     <project remote="github"    name="drmingdrmer/shbookmark"             />
     <project remote="github"    name="drmingdrmer/tankdb"                 />
     <project remote="github"    name="drmingdrmer/vcs-manifest"           />
