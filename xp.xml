@@ -43,6 +43,7 @@
     <project remote="github"    name="drmingdrmer/dreamcss"               />
     <project remote="github"    name="drmingdrmer/drmingdrmer.github.io"  />
     <project remote="github"    name="drmingdrmer/eplot"                  />
+    <project remote="github"    name="drmingdrmer/epaxos"                 />
     <project remote="github"    name="drmingdrmer/foolang"                />
     <project remote="github"    name="drmingdrmer/git-subtree"            />
     <project remote="github"    name="drmingdrmer/md"                     />
