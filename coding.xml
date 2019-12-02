@@ -11,8 +11,10 @@
         fetch="ssh://git@git.coding.net/"
         />
 
+    <project name="drmingdrmer/drmingdrmer"                                    />
     <project name="drmingdrmer/homefolder"                                     />
     <project name="drmingdrmer/ibiu"                                           />
+    <project name="drmingdrmer/openacid"                                       />
     <project name="drmingdrmer/xpkit"                  revision="coding-pages" />
     <!--add-->
 
