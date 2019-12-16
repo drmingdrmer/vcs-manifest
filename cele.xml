@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <default
+        remote="github"
+        revision="master"
+        sync-j="4" />
+
+    <remote
+        name="github"
+        fetch="ssh://git@github.com/"
+        />
+
+    <project remote="github" name="openacid/celeritasdb"     />
+</manifest>
