@@ -11,5 +11,7 @@
         fetch="ssh://git@github.com/"
         />
 
-    <project remote="github" name="openacid/celeritasdb"     />
+    <project remote="github" name="openacid/celeritasdb" />
+    <project remote="github" name="seppo0010/rsedis"     />
+    <project remote="github" name="tikv/tikv"            />
 </manifest>
