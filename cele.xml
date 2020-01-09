@@ -11,6 +11,7 @@
         fetch="ssh://git@github.com/"
         />
 
+    <project remote="github" name="mitsuhiko/redis-rs"     />
     <project remote="github" name="openacid/celeritasdb" />
     <project remote="github" name="openacid/celeritasdb.wiki" />
     <project remote="github" name="seppo0010/rsedis"     />
