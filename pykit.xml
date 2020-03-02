@@ -13,6 +13,7 @@
 
 
     <project remote="github"    name="drmingdrmer/pykitproc"             />
+    <project remote="github"    name="drmingdrmer/pykitututil"           />
     <!--add-->
 
 </manifest>
