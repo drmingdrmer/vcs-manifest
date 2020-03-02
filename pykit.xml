@@ -12,6 +12,7 @@
         />
 
 
+    <project remote="github"    name="drmingdrmer/pyauto"                />
     <project remote="github"    name="drmingdrmer/pykitproc"             />
     <project remote="github"    name="drmingdrmer/pykitut"               />
     <!--add-->
