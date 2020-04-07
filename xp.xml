@@ -44,7 +44,6 @@
     <project remote="github"    name="drmingdrmer/drmingdrmer.github.io"  />
     <project remote="github"    name="drmingdrmer/eplot"                  />
     <project remote="github"    name="drmingdrmer/foolang"                />
-    <project remote="github"    name="drmingdrmer/git-subtree"            />
     <project remote="github"    name="drmingdrmer/gift"                   />
     <project remote="github"    name="drmingdrmer/md"                     />
     <project remote="github"    name="drmingdrmer/mistune"                />
