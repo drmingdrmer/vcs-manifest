@@ -56,6 +56,7 @@
     <project remote="github"    name="drmingdrmer/lua-resty-core"         />
     <project remote="github"    name="drmingdrmer/lua-resty-http"         />
     <project remote="github"    name="drmingdrmer/lua-resty-upload"       />
+    <project remote="github"    name="drmingdrmer/lua-yaml"               />
     <project remote="github"    name="drmingdrmer/next-number"            revision="gh-pages"                     />
     <project remote="github"    name="drmingdrmer/nginx-lua-merge"        />
     <project remote="github"    name="drmingdrmer/papers"                 />
@@ -91,7 +92,6 @@
     <project remote="bitbucket" name="drmingdrmer/ibiu"                   />
     <project remote="bitbucket" name="drmingdrmer/journal"                />
     <project remote="bitbucket" name="drmingdrmer/lua-struct-db"          />
-    <project remote="bitbucket" name="drmingdrmer/lua-yaml"               />
     <project remote="bitbucket" name="drmingdrmer/notfs"                  />
     <project remote="bitbucket" name="drmingdrmer/zk4s2"                  />
     <project remote="bitbucket" name="drmingdrmer/etcd4s2"                />
