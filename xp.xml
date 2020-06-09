@@ -77,7 +77,6 @@
     <project remote="github"    name="drmingdrmer/web-scrapy"             />
     <project remote="github"    name="drmingdrmer/writing"                />
     <project remote="github"    name="drmingdrmer/xpas"                   />
-    <project remote="github"    name="drmingdrmer/xpkit"                  />
     <project remote="github"    name="drmingdrmer/journet"                />
     <project remote="github"    name="drmingdrmer/xphplib"                />
     <project remote="github"    name="drmingdrmer/xpjs"                   />
