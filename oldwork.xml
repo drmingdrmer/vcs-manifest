@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <default
+        remote="github"
+        revision="master"
+        sync-j="4" />
+
+    <remote
+        name="bitbucket"
+        fetch="ssh://git@bitbucket.org/"
+        />
+
+    <project remote="bitbucket" name="drmingdrmer/sinastorage"            />
+    <project remote="bitbucket" name="drmingdrmer/conf4s2"                />
+    <project remote="bitbucket" name="drmingdrmer/cacheservice"           />
+    <project remote="bitbucket" name="drmingdrmer/circularbuf"            />
+    <project remote="bitbucket" name="drmingdrmer/ibiu"                   />
+    <project remote="bitbucket" name="drmingdrmer/journal"                />
+    <project remote="bitbucket" name="drmingdrmer/lua-struct-db"          />
+    <project remote="bitbucket" name="drmingdrmer/notfs"                  />
+    <project remote="bitbucket" name="drmingdrmer/zk4s2"                  />
+    <project remote="bitbucket" name="drmingdrmer/etcd4s2"                />
+    <project remote="bitbucket" name="drmingdrmer/s3plus"                 revision="d" />
+    <project remote="bitbucket" name="drmingdrmer/s3plus-release-meituan" />
+    <!--add-->
+
+</manifest>

@@ -4,97 +4,18 @@
     <default
         remote="github"
         revision="master"
-        sync-j="1" />
+        sync-j="4" />
 
     <remote
         name="github"
         fetch="ssh://git@github.com/"
         />
 
-    <remote
-        name="bitbucket"
-        fetch="ssh://git@bitbucket.org/"
-        />
-
-    <remote
-        name="oschina"
-        fetch="http://git.oschina.net/"
-        />
-
-    <remote
-        name="dpdk"
-        fetch="git://dpdk.org/"
-        />
-
-    <remote
-        name="gnu"
-        fetch="git://gcc.gnu.org/git/"
-        />
-
-    <remote
-        name="sourceware"
-        fetch="git://sourceware.org/git/"
-        />
-
-    <project remote="github"    name="drmingdrmer/2048bot"                revision="gh-pages"                     />
-    <project remote="github"    name="drmingdrmer/books"                  revision="gh-pages"                     />
-    <project remote="github"    name="drmingdrmer/cheatsheet"             />
-    <project remote="github"    name="drmingdrmer/dnsmasq-conf-mng"       />
-    <project remote="github"    name="drmingdrmer/dreamcss"               />
-    <project remote="github"    name="drmingdrmer/drmingdrmer.github.io"  />
-    <project remote="github"    name="drmingdrmer/eplot"                  />
-    <project remote="github"    name="drmingdrmer/foolang"                />
-    <project remote="github"    name="drmingdrmer/gift"                   />
-    <project remote="github"    name="drmingdrmer/md"                     />
-    <project remote="github"    name="drmingdrmer/mistune"                />
-    <project remote="github"    name="drmingdrmer/mistune-contrib"        />
     <project remote="github"    name="drmingdrmer/wiki"                   />
-    <project remote="github"    name="drmingdrmer/intel-isa"              />
-    <project remote="github"    name="drmingdrmer/libbinlog"              />
-    <project remote="github"    name="drmingdrmer/lua-cjson"              />
-    <project remote="github"    name="drmingdrmer/lua-resty-core"         />
-    <project remote="github"    name="drmingdrmer/lua-resty-http"         />
-    <project remote="github"    name="drmingdrmer/lua-resty-upload"       />
-    <project remote="github"    name="drmingdrmer/lua-yaml"               />
-    <project remote="github"    name="drmingdrmer/next-number"            revision="gh-pages"                     />
-    <project remote="github"    name="drmingdrmer/nginx-lua-merge"        />
-    <project remote="github"    name="drmingdrmer/papers"                 />
-    <project remote="github"    name="drmingdrmer/peervpn"                />
-    <project remote="github"    name="drmingdrmer/powerstation_sae"       />
-    <project remote="github"    name="drmingdrmer/pypaxos"                />
+    <project remote="github"    name="drmingdrmer/cheatsheet"             />
+    <project remote="github"    name="drmingdrmer/gift"                   />
     <project remote="github"    name="drmingdrmer/shbookmark"             />
-    <project remote="github"    name="drmingdrmer/tankdb"                 />
     <project remote="github"    name="drmingdrmer/vcs-manifest"           />
-    <project remote="github"    name="drmingdrmer/vim-fuzzyjumpto"        />
-    <project remote="github"    name="drmingdrmer/vim-indent-lua"         />
-    <project remote="github"    name="drmingdrmer/vim-syntax-markdown"    />
-    <project remote="github"    name="drmingdrmer/vim-tabbar"             />
-    <project remote="github"    name="drmingdrmer/vim-tiny-unittest"      />
-    <project remote="github"    name="drmingdrmer/vim-toggle-quickfix"    />
-    <project remote="github"    name="drmingdrmer/vim-uni"                />
-    <project remote="github"    name="drmingdrmer/vim-xpsnip"             />
-    <project remote="github"    name="drmingdrmer/vweb"                   />
-    <project remote="github"    name="drmingdrmer/web-scrapy"             />
-    <project remote="github"    name="drmingdrmer/writing"                />
-    <project remote="github"    name="drmingdrmer/xpas"                   />
-    <project remote="github"    name="drmingdrmer/journet"                />
-    <project remote="github"    name="drmingdrmer/xphplib"                />
-    <project remote="github"    name="drmingdrmer/xpjs"                   />
-    <project remote="github"    name="drmingdrmer/xpsjs"                  />
-    <project remote="github"    name="drmingdrmer/xptemplate"             revision="mix"                          />
-    <project remote="github"    name="drmingdrmer/yamltocss"              />
-    <project remote="bitbucket" name="drmingdrmer/sinastorage"            />
-    <project remote="bitbucket" name="drmingdrmer/conf4s2"                />
-    <project remote="bitbucket" name="drmingdrmer/cacheservice"           />
-    <project remote="bitbucket" name="drmingdrmer/circularbuf"            />
-    <project remote="bitbucket" name="drmingdrmer/ibiu"                   />
-    <project remote="bitbucket" name="drmingdrmer/journal"                />
-    <project remote="bitbucket" name="drmingdrmer/lua-struct-db"          />
-    <project remote="bitbucket" name="drmingdrmer/notfs"                  />
-    <project remote="bitbucket" name="drmingdrmer/zk4s2"                  />
-    <project remote="bitbucket" name="drmingdrmer/etcd4s2"                />
-    <project remote="bitbucket" name="drmingdrmer/s3plus"                 revision="d" />
-    <project remote="bitbucket" name="drmingdrmer/s3plus-release-meituan" />
     <!--add-->
 
 </manifest>
