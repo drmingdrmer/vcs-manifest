@@ -16,7 +16,7 @@
         />
 
     <project remote="github"    name="facebook/folly"                   />
-    <project remote="ali"    name="oceanbase/ofs"                   />
+    <project remote="ali"    name="oceanbase/ofs.git"                   />
     <!--add-->
 
 </manifest>
