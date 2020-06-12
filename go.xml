@@ -15,7 +15,6 @@
     <project remote="github" name="efficient/SuRF"          path="github.com/efficient/SuRF"          />
     <project remote="github" name="efficient/epaxos"        path="github.com/efficient/epaxos"        />
     <project remote="github" name="etcd-io/bbolt"           path="github.com/etcd-io/bbolt"           />
-    <project remote="github" name="drmingdrmer/epaxos"      path="github.com/drmingdrmer/epaxos"      />
     <project remote="github" name="openacid/errors"         path="github.com/openacid/errors"         />
     <project remote="github" name="openacid/go-funk"        path="github.com/openacid/go-funk"        />
     <project remote="github" name="openacid/gobenchmark"    path="github.com/openacid/gobenchmark"    />
