@@ -16,7 +16,6 @@
     <project remote="bitbucket" name="drmingdrmer/cacheservice"           />
     <project remote="bitbucket" name="drmingdrmer/circularbuf"            />
     <project remote="bitbucket" name="drmingdrmer/ibiu"                   />
-    <project remote="bitbucket" name="drmingdrmer/journal"                />
     <project remote="bitbucket" name="drmingdrmer/lua-struct-db"          />
     <project remote="bitbucket" name="drmingdrmer/notfs"                  />
     <project remote="bitbucket" name="drmingdrmer/zk4s2"                  />
