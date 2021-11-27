@@ -61,7 +61,6 @@
     <project remote="github" name="drmingdrmer/pykit"                                      />
     <project remote="github" name="openacid/gh-config"                                     />
     <project remote="github" name="openacid/learn"                                         />
-    <project remote="github" name="openacid/openacid.github.io"                            />
     <!--add-->
 
 </manifest>
